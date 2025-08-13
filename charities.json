@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Feeding America",
+    "website": "https://www.feedingamerica.org",
+    "category": "Hunger, Poverty & Housing",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Nationwide network of food banks tackling hunger."
+  },
+  {
+    "name": "St. Jude Children’s Research Hospital",
+    "website": "https://www.stjude.org",
+    "category": "Health & Medical Care",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Pediatric treatment and research—families never receive a bill."
+  },
+  {
+    "name": "American Red Cross",
+    "website": "https://www.redcross.org",
+    "category": "Disaster Relief & Emergency Aid",
+    "location": "USA/Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Disaster relief, blood services, and preparedness."
+  },
+  {
+    "name": "The Salvation Army",
+    "website": "https://www.salvationarmyusa.org",
+    "category": "Community Development",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Social services, shelters, rehab programs."
+  },
+  {
+    "name": "Bill & Melinda Gates Foundation",
+    "website": "https://www.gatesfoundation.org",
+    "category": "Major Global Charities",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Global health, education, and poverty alleviation."
+  },
+  {
+    "name": "Direct Relief",
+    "website": "https://www.directrelief.org",
+    "category": "Disaster Relief & Emergency Aid",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Medical aid to improve health of people in poverty or emergencies."
+  },
+  {
+    "name": "World Wildlife Fund",
+    "website": "https://www.worldwildlife.org",
+    "category": "Environment & Conservation",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Protecting wildlife and wild places."
+  },
+  {
+    "name": "The Nature Conservancy",
+    "website": "https://www.nature.org",
+    "category": "Environment & Conservation",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Conserving lands and waters on which all life depends."
+  },
+  {
+    "name": "ASPCA",
+    "website": "https://www.aspca.org",
+    "category": "Animal Welfare",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Preventing cruelty to animals and advancing welfare."
+  },
+  {
+    "name": "Best Friends Animal Society",
+    "website": "https://bestfriends.org",
+    "category": "Animal Welfare",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Leading no-kill movement for pets."
+  },
+  {
+    "name": "Doctors Without Borders (MSF)",
+    "website": "https://www.doctorswithoutborders.org",
+    "category": "Health & Medical Care",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Medical humanitarian assistance in crises."
+  },
+  {
+    "name": "UNICEF USA",
+    "website": "https://www.unicefusa.org",
+    "category": "Children & Families in Need",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Protecting the rights and well‑being of every child."
+  },
+  {
+    "name": "Habitat for Humanity",
+    "website": "https://www.habitat.org",
+    "category": "Hunger, Poverty & Housing",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Building and improving homes in partnership with families."
+  },
+  {
+    "name": "Save the Children",
+    "website": "https://www.savethechildren.org",
+    "category": "Children & Families in Need",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Health, education, and protection for children worldwide."
+  },
+  {
+    "name": "Special Olympics",
+    "website": "https://www.specialolympics.org",
+    "category": "Sports & Recreation",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Sports and inclusion for people with intellectual disabilities."
+  },
+  {
+    "name": "Wikimedia Foundation",
+    "website": "https://wikimediafoundation.org",
+    "category": "Science & Technology for Good",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Free knowledge projects like Wikipedia."
+  },
+  {
+    "name": "City Harvest",
+    "website": "https://www.cityharvest.org",
+    "category": "Local Community Charities",
+    "location": "USA/NY",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Rescuing food to feed New Yorkers in need."
+  },
+  {
+    "name": "The Trevor Project",
+    "website": "https://www.thetrevorproject.org",
+    "category": "LGBTQ+ Organizations",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Crisis support and suicide prevention for LGBTQ+ youth."
+  }
+]

@@ -1,0 +1,605 @@
+[
+  {
+    "name": "Feeding America",
+    "website": "https://www.feedingamerica.org",
+    "category": "Hunger, Poverty & Housing",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Nationwide network of food banks."
+  },
+  {
+    "name": "World Food Programme USA",
+    "website": "https://www.wfpusa.org",
+    "category": "Hunger, Poverty & Housing",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Supports UN WFP’s hunger relief work."
+  },
+  {
+    "name": "Action Against Hunger",
+    "website": "https://www.actionagainsthunger.org",
+    "category": "Hunger, Poverty & Housing",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Treats and prevents life-threatening hunger."
+  },
+  {
+    "name": "CARE",
+    "website": "https://www.care.org",
+    "category": "Hunger, Poverty & Housing",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Fights global poverty and provides emergency relief."
+  },
+  {
+    "name": "Habitat for Humanity",
+    "website": "https://www.habitat.org",
+    "category": "Hunger, Poverty & Housing",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Building and improving homes with families."
+  },
+  {
+    "name": "Heifer International",
+    "website": "https://www.heifer.org",
+    "category": "Hunger, Poverty & Housing",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Sustainable agriculture to end hunger and poverty."
+  },
+  {
+    "name": "Oxfam America",
+    "website": "https://www.oxfamamerica.org",
+    "category": "Hunger, Poverty & Housing",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Works to end poverty and injustice."
+  },
+  {
+    "name": "City Harvest",
+    "website": "https://www.cityharvest.org",
+    "category": "Hunger, Poverty & Housing",
+    "location": "USA/NY",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Rescues food to feed New Yorkers."
+  },
+  {
+    "name": "ShelterBox USA",
+    "website": "https://www.shelterboxusa.org",
+    "category": "Hunger, Poverty & Housing",
+    "location": "Global",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Emergency shelter after disasters."
+  },
+  {
+    "name": "American Red Cross",
+    "website": "https://www.redcross.org",
+    "category": "Disaster Relief & Emergency Aid",
+    "location": "USA/Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Disaster relief, blood services, preparedness."
+  },
+  {
+    "name": "Direct Relief",
+    "website": "https://www.directrelief.org",
+    "category": "Disaster Relief & Emergency Aid",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Medical aid for emergencies."
+  },
+  {
+    "name": "World Central Kitchen",
+    "website": "https://wck.org",
+    "category": "Disaster Relief & Emergency Aid",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Meals in response to crises."
+  },
+  {
+    "name": "International Rescue Committee",
+    "website": "https://www.rescue.org",
+    "category": "Disaster Relief & Emergency Aid",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Supports people affected by conflict."
+  },
+  {
+    "name": "Mercy Corps",
+    "website": "https://www.mercycorps.org",
+    "category": "Disaster Relief & Emergency Aid",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Helps communities build resilience."
+  },
+  {
+    "name": "St. Jude Children’s Research Hospital",
+    "website": "https://www.stjude.org",
+    "category": "Health & Medical Care",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Pediatric treatment and research—no bills for families."
+  },
+  {
+    "name": "Doctors Without Borders (MSF)",
+    "website": "https://www.doctorswithoutborders.org",
+    "category": "Health & Medical Care",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Medical humanitarian assistance."
+  },
+  {
+    "name": "American Cancer Society",
+    "website": "https://www.cancer.org",
+    "category": "Health & Medical Care",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Cancer research and patient support."
+  },
+  {
+    "name": "American Heart Association",
+    "website": "https://www.heart.org",
+    "category": "Health & Medical Care",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Fighting heart disease and stroke."
+  },
+  {
+    "name": "Partners In Health",
+    "website": "https://www.pih.org",
+    "category": "Health & Medical Care",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Brings quality health care to poor regions."
+  },
+  {
+    "name": "Planned Parenthood",
+    "website": "https://www.plannedparenthood.org",
+    "category": "Health & Medical Care",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Sexual and reproductive health."
+  },
+  {
+    "name": "Alzheimer’s Association",
+    "website": "https://www.alz.org",
+    "category": "Health & Medical Care",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Research and support services."
+  },
+  {
+    "name": "DonorsChoose",
+    "website": "https://www.donorschoose.org",
+    "category": "Education & Youth",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Funds classroom projects."
+  },
+  {
+    "name": "Room to Read",
+    "website": "https://www.roomtoread.org",
+    "category": "Education & Youth",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Literacy and girls’ education."
+  },
+  {
+    "name": "Scholarship America",
+    "website": "https://scholarshipamerica.org",
+    "category": "Education & Youth",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Scholarship programs and guidance."
+  },
+  {
+    "name": "Teach For America",
+    "website": "https://www.teachforamerica.org",
+    "category": "Education & Youth",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Leaders expanding educational opportunity."
+  },
+  {
+    "name": "Boys & Girls Clubs of America",
+    "website": "https://www.bgca.org",
+    "category": "Education & Youth",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "After-school programs for youth."
+  },
+  {
+    "name": "World Wildlife Fund",
+    "website": "https://www.worldwildlife.org",
+    "category": "Environment & Conservation",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Protecting wildlife and wild places."
+  },
+  {
+    "name": "The Nature Conservancy",
+    "website": "https://www.nature.org",
+    "category": "Environment & Conservation",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Conserving lands and waters."
+  },
+  {
+    "name": "Sierra Club Foundation",
+    "website": "https://www.sierraclubfoundation.org",
+    "category": "Environment & Conservation",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Supports environmental advocacy."
+  },
+  {
+    "name": "Ocean Conservancy",
+    "website": "https://oceanconservancy.org",
+    "category": "Environment & Conservation",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Science-based ocean solutions."
+  },
+  {
+    "name": "Environmental Defense Fund",
+    "website": "https://www.edf.org",
+    "category": "Environment & Conservation",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Solving critical environmental problems."
+  },
+  {
+    "name": "ASPCA",
+    "website": "https://www.aspca.org",
+    "category": "Animal Welfare",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Prevents cruelty to animals."
+  },
+  {
+    "name": "Humane Society of the United States",
+    "website": "https://www.humanesociety.org",
+    "category": "Animal Welfare",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Ending suffering for all animals."
+  },
+  {
+    "name": "Best Friends Animal Society",
+    "website": "https://bestfriends.org",
+    "category": "Animal Welfare",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Leading no-kill movement."
+  },
+  {
+    "name": "World Animal Protection",
+    "website": "https://www.worldanimalprotection.us",
+    "category": "Animal Welfare",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Protects animals around the world."
+  },
+  {
+    "name": "Smithsonian Institution",
+    "website": "https://www.si.edu",
+    "category": "Arts, Culture & Humanities",
+    "location": "USA/DC",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Museums and research complex."
+  },
+  {
+    "name": "PBS",
+    "website": "https://www.pbs.org",
+    "category": "Arts, Culture & Humanities",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Public media and education."
+  },
+  {
+    "name": "American Library Association",
+    "website": "https://www.ala.org",
+    "category": "Arts, Culture & Humanities",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Advocates for libraries."
+  },
+  {
+    "name": "ACLU",
+    "website": "https://www.aclu.org",
+    "category": "Human Rights & Equality",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Defends civil liberties and rights."
+  },
+  {
+    "name": "Human Rights Watch",
+    "website": "https://www.hrw.org",
+    "category": "Human Rights & Equality",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Investigations and advocacy."
+  },
+  {
+    "name": "Amnesty International USA",
+    "website": "https://www.amnestyusa.org",
+    "category": "Human Rights & Equality",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Global movement for human rights."
+  },
+  {
+    "name": "United Way",
+    "website": "https://www.unitedway.org",
+    "category": "Community Development",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Community-based programs."
+  },
+  {
+    "name": "The Salvation Army",
+    "website": "https://www.salvationarmyusa.org",
+    "category": "Community Development",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Social services and shelters."
+  },
+  {
+    "name": "Big Brothers Big Sisters of America",
+    "website": "https://www.bbbs.org",
+    "category": "Community Development",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Youth mentoring."
+  },
+  {
+    "name": "Goodwill Industries International",
+    "website": "https://www.goodwill.org",
+    "category": "Community Development",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Job training and placement."
+  },
+  {
+    "name": "Catholic Relief Services",
+    "website": "https://www.crs.org",
+    "category": "Religion & Faith-Based",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Faith-based relief and development."
+  },
+  {
+    "name": "Islamic Relief USA",
+    "website": "https://irusa.org",
+    "category": "Religion & Faith-Based",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Humanitarian aid and development."
+  },
+  {
+    "name": "World Vision",
+    "website": "https://www.worldvision.org",
+    "category": "Religion & Faith-Based",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Christian humanitarian work."
+  },
+  {
+    "name": "Wikimedia Foundation",
+    "website": "https://wikimediafoundation.org",
+    "category": "Science & Technology for Good",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Free knowledge projects like Wikipedia."
+  },
+  {
+    "name": "Electronic Frontier Foundation",
+    "website": "https://www.eff.org",
+    "category": "Science & Technology for Good",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Civil liberties in the digital world."
+  },
+  {
+    "name": "Mozilla Foundation",
+    "website": "https://foundation.mozilla.org",
+    "category": "Science & Technology for Good",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Internet health and privacy."
+  },
+  {
+    "name": "Code.org",
+    "website": "https://code.org/donate",
+    "category": "Science & Technology for Good",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Expanding access to computer science."
+  },
+  {
+    "name": "Special Olympics",
+    "website": "https://www.specialolympics.org",
+    "category": "Sports & Recreation",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Sports for people with ID."
+  },
+  {
+    "name": "YMCA",
+    "website": "https://www.ymca.org",
+    "category": "Sports & Recreation",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Youth programs and recreation."
+  },
+  {
+    "name": "UNICEF USA",
+    "website": "https://www.unicefusa.org",
+    "category": "Major Global Charities",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Protects children’s rights and well-being."
+  },
+  {
+    "name": "Bill & Melinda Gates Foundation",
+    "website": "https://www.gatesfoundation.org",
+    "category": "Major Global Charities",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Global health and education."
+  },
+  {
+    "name": "Save the Children",
+    "website": "https://www.savethechildren.org",
+    "category": "Major Global Charities",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Health, education, protection for children."
+  },
+  {
+    "name": "City Harvest",
+    "website": "https://www.cityharvest.org",
+    "category": "Local Community Charities",
+    "location": "USA/NY",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Rescues food in NYC."
+  },
+  {
+    "name": "GiveDirectly",
+    "website": "https://www.givedirectly.org",
+    "category": "Small Grassroots Orgs",
+    "location": "Global",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Direct cash transfers to people in poverty."
+  },
+  {
+    "name": "Charity Navigator",
+    "website": "https://www.charitynavigator.org",
+    "category": "Verified 501(c)(3) Charities",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Evaluates and rates U.S. charities."
+  },
+  {
+    "name": "Wounded Warrior Project",
+    "website": "https://www.woundedwarriorproject.org",
+    "category": "Veterans & Military Support",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Programs for wounded veterans."
+  },
+  {
+    "name": "Fisher House Foundation",
+    "website": "https://fisherhouse.org",
+    "category": "Veterans & Military Support",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Comfort homes for military families."
+  },
+  {
+    "name": "CASA",
+    "website": "https://nationalcasagal.org",
+    "category": "Children & Families in Need",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Advocates for children in foster care."
+  },
+  {
+    "name": "Meals on Wheels America",
+    "website": "https://www.mealsonwheelsamerica.org",
+    "category": "Senior & Elderly Support",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Delivers meals to seniors."
+  },
+  {
+    "name": "The Trevor Project",
+    "website": "https://www.thetrevorproject.org",
+    "category": "LGBTQ+ Organizations",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Crisis support for LGBTQ+ youth."
+  },
+  {
+    "name": "Autism Speaks",
+    "website": "https://www.autismspeaks.org",
+    "category": "Disability Advocacy & Support",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Autism advocacy and services."
+  },
+  {
+    "name": "First Nations Development Institute",
+    "website": "https://www.firstnations.org",
+    "category": "Indigenous & Tribal Communities",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Strengthening Native economies."
+  }
+]

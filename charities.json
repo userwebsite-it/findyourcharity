@@ -1,0 +1,4442 @@
+[
+  {
+    "name": "ASPCA",
+    "website": "https://www.aspca.org",
+    "category": "Animals & Wildlife",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Prevents cruelty to animals and advances welfare.",
+    "image": "https://logo.clearbit.com/www.aspca.org"
+  },
+  {
+    "name": "Humane Society of the United States",
+    "website": "https://www.humanesociety.org",
+    "category": "Animals & Wildlife",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Ending suffering for all animals.",
+    "image": "https://logo.clearbit.com/www.humanesociety.org"
+  },
+  {
+    "name": "Best Friends Animal Society",
+    "website": "https://bestfriends.org",
+    "category": "Animals & Wildlife",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Leading the no‑kill movement for pets.",
+    "image": "https://logo.clearbit.com/bestfriends.org"
+  },
+  {
+    "name": "World Animal Protection",
+    "website": "https://www.worldanimalprotection.us",
+    "category": "Animals & Wildlife",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Moves the world to protect animals.",
+    "image": "https://logo.clearbit.com/www.worldanimalprotection.us"
+  },
+  {
+    "name": "PetSmart Charities",
+    "website": "https://petsmartcharities.org",
+    "category": "Animals & Wildlife",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Supports animal welfare through adoption & grants.",
+    "image": "https://logo.clearbit.com/petsmartcharities.org"
+  },
+  {
+    "name": "GiveDirectly",
+    "website": "https://www.givedirectly.org",
+    "category": "Animals & Wildlife",
+    "location": "Global",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Direct cash transfers to people in poverty.",
+    "image": "https://logo.clearbit.com/www.givedirectly.org"
+  },
+  {
+    "name": "Conservation International",
+    "website": "https://www.conservation.org",
+    "category": "Animals & Wildlife",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Protecting nature for people and planet.",
+    "image": "https://logo.clearbit.com/www.conservation.org"
+  },
+  {
+    "name": "Feeding America",
+    "website": "https://www.feedingamerica.org",
+    "category": "Animals & Wildlife",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Nationwide network of food banks tackling hunger.",
+    "image": "https://logo.clearbit.com/www.feedingamerica.org"
+  },
+  {
+    "name": "ACLU",
+    "website": "https://www.aclu.org",
+    "category": "Animals & Wildlife",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Defends civil liberties and civil rights.",
+    "image": "https://logo.clearbit.com/www.aclu.org"
+  },
+  {
+    "name": "Teach For America",
+    "website": "https://www.teachforamerica.org",
+    "category": "Animals & Wildlife",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Leaders expanding educational opportunity.",
+    "image": "https://logo.clearbit.com/www.teachforamerica.org"
+  },
+  {
+    "name": "International Orthodox Christian Charities",
+    "website": "https://iocc.org",
+    "category": "Animals & Wildlife",
+    "location": "Global",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Humanitarian relief and development programs.",
+    "image": "https://logo.clearbit.com/iocc.org"
+  },
+  {
+    "name": "Boys & Girls Clubs of America",
+    "website": "https://www.bgca.org",
+    "category": "Animals & Wildlife",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "After‑school programs and mentoring.",
+    "image": "https://logo.clearbit.com/www.bgca.org"
+  },
+  {
+    "name": "Goodwill Industries International",
+    "website": "https://www.goodwill.org",
+    "category": "Animals & Wildlife",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Job training and employment services.",
+    "image": "https://logo.clearbit.com/www.goodwill.org"
+  },
+  {
+    "name": "Room to Read",
+    "website": "https://www.roomtoread.org",
+    "category": "Animals & Wildlife",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Literacy and girls’ education programs.",
+    "image": "https://logo.clearbit.com/www.roomtoread.org"
+  },
+  {
+    "name": "Environmental Defense Fund",
+    "website": "https://www.edf.org",
+    "category": "Animals & Wildlife",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Tackling critical environmental problems.",
+    "image": "https://logo.clearbit.com/www.edf.org"
+  },
+  {
+    "name": "YMCA",
+    "website": "https://www.ymca.org",
+    "category": "Animals & Wildlife",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Youth programs and community recreation.",
+    "image": "https://logo.clearbit.com/www.ymca.org"
+  },
+  {
+    "name": "Habitat for Humanity",
+    "website": "https://www.habitat.org",
+    "category": "Animals & Wildlife",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Partnering with families to build and improve homes.",
+    "image": "https://logo.clearbit.com/www.habitat.org"
+  },
+  {
+    "name": "Autism Speaks",
+    "website": "https://www.autismspeaks.org",
+    "category": "Animals & Wildlife",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Autism advocacy, services, and research.",
+    "image": "https://logo.clearbit.com/www.autismspeaks.org"
+  },
+  {
+    "name": "Action Against Hunger",
+    "website": "https://www.actionagainsthunger.org",
+    "category": "Animals & Wildlife",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Preventing and treating life‑threatening hunger.",
+    "image": "https://logo.clearbit.com/www.actionagainsthunger.org"
+  },
+  {
+    "name": "Smithsonian Institution",
+    "website": "https://www.si.edu",
+    "category": "Arts, Culture & Humanities",
+    "location": "USA/DC",
+    "size": "Large",
+    "verified": true,
+    "blurb": "World’s largest museum & research complex.",
+    "image": "https://logo.clearbit.com/www.si.edu"
+  },
+  {
+    "name": "PBS",
+    "website": "https://www.pbs.org",
+    "category": "Arts, Culture & Humanities",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Public media and education.",
+    "image": "https://logo.clearbit.com/www.pbs.org"
+  },
+  {
+    "name": "American Library Association",
+    "website": "https://www.ala.org",
+    "category": "Arts, Culture & Humanities",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Advocates for libraries and information services.",
+    "image": "https://logo.clearbit.com/www.ala.org"
+  },
+  {
+    "name": "NPR",
+    "website": "https://www.npr.org",
+    "category": "Arts, Culture & Humanities",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Independent, nonprofit media organization.",
+    "image": "https://logo.clearbit.com/www.npr.org"
+  },
+  {
+    "name": "Alzheimer’s Association",
+    "website": "https://www.alz.org",
+    "category": "Arts, Culture & Humanities",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Accelerating research and early detection.",
+    "image": "https://logo.clearbit.com/www.alz.org"
+  },
+  {
+    "name": "Futures Without Violence",
+    "website": "https://www.futureswithoutviolence.org",
+    "category": "Arts, Culture & Humanities",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Ending violence against women & children.",
+    "image": "https://logo.clearbit.com/www.futureswithoutviolence.org"
+  },
+  {
+    "name": "Autism Speaks",
+    "website": "https://www.autismspeaks.org",
+    "category": "Arts, Culture & Humanities",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Autism advocacy, services, and research.",
+    "image": "https://logo.clearbit.com/www.autismspeaks.org"
+  },
+  {
+    "name": "Environmental Defense Fund",
+    "website": "https://www.edf.org",
+    "category": "Arts, Culture & Humanities",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Tackling critical environmental problems.",
+    "image": "https://logo.clearbit.com/www.edf.org"
+  },
+  {
+    "name": "First Nations Development Institute",
+    "website": "https://www.firstnations.org",
+    "category": "Arts, Culture & Humanities",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Strengthening Native economies.",
+    "image": "https://logo.clearbit.com/www.firstnations.org"
+  },
+  {
+    "name": "The Salvation Army",
+    "website": "https://www.salvationarmyusa.org",
+    "category": "Arts, Culture & Humanities",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Social services, shelters, rehab programs.",
+    "image": "https://logo.clearbit.com/www.salvationarmyusa.org"
+  },
+  {
+    "name": "Feeding America",
+    "website": "https://www.feedingamerica.org",
+    "category": "Arts, Culture & Humanities",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Nationwide network of food banks tackling hunger.",
+    "image": "https://logo.clearbit.com/www.feedingamerica.org"
+  },
+  {
+    "name": "Public Counsel",
+    "website": "https://publiccounsel.org",
+    "category": "Arts, Culture & Humanities",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Largest pro bono law firm—justice & opportunity.",
+    "image": "https://logo.clearbit.com/publiccounsel.org"
+  },
+  {
+    "name": "Wounded Warrior Project",
+    "website": "https://www.woundedwarriorproject.org",
+    "category": "Arts, Culture & Humanities",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Programs and services for wounded veterans.",
+    "image": "https://logo.clearbit.com/www.woundedwarriorproject.org"
+  },
+  {
+    "name": "Wikimedia Foundation",
+    "website": "https://wikimediafoundation.org",
+    "category": "Arts, Culture & Humanities",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Free knowledge projects like Wikipedia.",
+    "image": "https://logo.clearbit.com/wikimediafoundation.org"
+  },
+  {
+    "name": "Heifer International",
+    "website": "https://www.heifer.org",
+    "category": "Arts, Culture & Humanities",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Sustainable agriculture to end hunger and poverty.",
+    "image": "https://logo.clearbit.com/www.heifer.org"
+  },
+  {
+    "name": "Southern Poverty Law Center",
+    "website": "https://www.splcenter.org",
+    "category": "Arts, Culture & Humanities",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Fighting hate and bigotry.",
+    "image": "https://logo.clearbit.com/www.splcenter.org"
+  },
+  {
+    "name": "World Animal Protection",
+    "website": "https://www.worldanimalprotection.us",
+    "category": "Arts, Culture & Humanities",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Moves the world to protect animals.",
+    "image": "https://logo.clearbit.com/www.worldanimalprotection.us"
+  },
+  {
+    "name": "Mozilla Foundation",
+    "website": "https://www.mozilla.org",
+    "category": "Arts, Culture & Humanities",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Internet health, privacy, open‑source initiatives.",
+    "image": "https://logo.clearbit.com/www.mozilla.org"
+  },
+  {
+    "name": "Playworks",
+    "website": "https://www.playworks.org",
+    "category": "Arts, Culture & Humanities",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Recess and play to transform schools.",
+    "image": "https://logo.clearbit.com/www.playworks.org"
+  },
+  {
+    "name": "Conservation International",
+    "website": "https://www.conservation.org",
+    "category": "Arts, Culture & Humanities",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Protecting nature for people and planet.",
+    "image": "https://logo.clearbit.com/www.conservation.org"
+  },
+  {
+    "name": "Boys & Girls Clubs of America",
+    "website": "https://www.bgca.org",
+    "category": "Children & Youth",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "After‑school programs and mentoring.",
+    "image": "https://logo.clearbit.com/www.bgca.org"
+  },
+  {
+    "name": "Big Brothers Big Sisters of America",
+    "website": "https://www.bbbs.org",
+    "category": "Children & Youth",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "One‑to‑one youth mentoring.",
+    "image": "https://logo.clearbit.com/www.bbbs.org"
+  },
+  {
+    "name": "GiveDirectly",
+    "website": "https://www.givedirectly.org",
+    "category": "Children & Youth",
+    "location": "Global",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Direct cash transfers to people in poverty.",
+    "image": "https://logo.clearbit.com/www.givedirectly.org"
+  },
+  {
+    "name": "Habitat for Humanity",
+    "website": "https://www.habitat.org",
+    "category": "Children & Youth",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Partnering with families to build and improve homes.",
+    "image": "https://logo.clearbit.com/www.habitat.org"
+  },
+  {
+    "name": "Southern Poverty Law Center",
+    "website": "https://www.splcenter.org",
+    "category": "Children & Youth",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Fighting hate and bigotry.",
+    "image": "https://logo.clearbit.com/www.splcenter.org"
+  },
+  {
+    "name": "Wikimedia Foundation",
+    "website": "https://wikimediafoundation.org",
+    "category": "Children & Youth",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Free knowledge projects like Wikipedia.",
+    "image": "https://logo.clearbit.com/wikimediafoundation.org"
+  },
+  {
+    "name": "Fisher House Foundation",
+    "website": "https://fisherhouse.org",
+    "category": "Children & Youth",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Comfort homes for military & veteran families.",
+    "image": "https://logo.clearbit.com/fisherhouse.org"
+  },
+  {
+    "name": "Planned Parenthood",
+    "website": "https://www.plannedparenthood.org",
+    "category": "Children & Youth",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Sexual and reproductive health care & education.",
+    "image": "https://logo.clearbit.com/www.plannedparenthood.org"
+  },
+  {
+    "name": "Feeding Tampa Bay",
+    "website": "https://www.feedingtampabay.org",
+    "category": "Children & Youth",
+    "location": "USA/FL",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Regional food bank serving West Central Florida.",
+    "image": "https://logo.clearbit.com/www.feedingtampabay.org"
+  },
+  {
+    "name": "American Heart Association",
+    "website": "https://www.heart.org",
+    "category": "Children & Youth",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Fighting heart disease and stroke.",
+    "image": "https://logo.clearbit.com/www.heart.org"
+  },
+  {
+    "name": "World Animal Protection",
+    "website": "https://www.worldanimalprotection.us",
+    "category": "Children & Youth",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Moves the world to protect animals.",
+    "image": "https://logo.clearbit.com/www.worldanimalprotection.us"
+  },
+  {
+    "name": "International Rescue Committee",
+    "website": "https://www.rescue.org",
+    "category": "Children & Youth",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Aids people affected by conflict and disaster.",
+    "image": "https://logo.clearbit.com/www.rescue.org"
+  },
+  {
+    "name": "Action Against Hunger",
+    "website": "https://www.actionagainsthunger.org",
+    "category": "Children & Youth",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Preventing and treating life‑threatening hunger.",
+    "image": "https://logo.clearbit.com/www.actionagainsthunger.org"
+  },
+  {
+    "name": "The Trevor Project",
+    "website": "https://www.thetrevorproject.org",
+    "category": "Children & Youth",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Crisis support & suicide prevention for LGBTQ+ youth.",
+    "image": "https://logo.clearbit.com/www.thetrevorproject.org"
+  },
+  {
+    "name": "Mercy Corps",
+    "website": "https://www.mercycorps.org",
+    "category": "Children & Youth",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Helps people build secure, productive communities.",
+    "image": "https://logo.clearbit.com/www.mercycorps.org"
+  },
+  {
+    "name": "ASPCA",
+    "website": "https://www.aspca.org",
+    "category": "Children & Youth",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Prevents cruelty to animals and advances welfare.",
+    "image": "https://logo.clearbit.com/www.aspca.org"
+  },
+  {
+    "name": "Sierra Club Foundation",
+    "website": "https://www.sierraclubfoundation.org",
+    "category": "Children & Youth",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Supports grassroots environmental advocacy.",
+    "image": "https://logo.clearbit.com/www.sierraclubfoundation.org"
+  },
+  {
+    "name": "Environmental Defense Fund",
+    "website": "https://www.edf.org",
+    "category": "Children & Youth",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Tackling critical environmental problems.",
+    "image": "https://logo.clearbit.com/www.edf.org"
+  },
+  {
+    "name": "PetSmart Charities",
+    "website": "https://petsmartcharities.org",
+    "category": "Children & Youth",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Supports animal welfare through adoption & grants.",
+    "image": "https://logo.clearbit.com/petsmartcharities.org"
+  },
+  {
+    "name": "ACLU",
+    "website": "https://www.aclu.org",
+    "category": "Civil Rights & Social Justice",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Defends civil liberties and civil rights.",
+    "image": "https://logo.clearbit.com/www.aclu.org"
+  },
+  {
+    "name": "Human Rights Watch",
+    "website": "https://www.hrw.org",
+    "category": "Civil Rights & Social Justice",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Investigations and advocacy for human rights.",
+    "image": "https://logo.clearbit.com/www.hrw.org"
+  },
+  {
+    "name": "Amnesty International USA",
+    "website": "https://www.amnestyusa.org",
+    "category": "Civil Rights & Social Justice",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Global movement for human rights.",
+    "image": "https://logo.clearbit.com/www.amnestyusa.org"
+  },
+  {
+    "name": "Southern Poverty Law Center",
+    "website": "https://www.splcenter.org",
+    "category": "Civil Rights & Social Justice",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Fighting hate and bigotry.",
+    "image": "https://logo.clearbit.com/www.splcenter.org"
+  },
+  {
+    "name": "Code.org",
+    "website": "https://code.org",
+    "category": "Civil Rights & Social Justice",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Expanding access to computer science in schools.",
+    "image": "https://logo.clearbit.com/code.org"
+  },
+  {
+    "name": "Sierra Club Foundation",
+    "website": "https://www.sierraclubfoundation.org",
+    "category": "Civil Rights & Social Justice",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Supports grassroots environmental advocacy.",
+    "image": "https://logo.clearbit.com/www.sierraclubfoundation.org"
+  },
+  {
+    "name": "Meals on Wheels America",
+    "website": "https://www.mealsonwheelsamerica.org",
+    "category": "Civil Rights & Social Justice",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Delivers meals to seniors.",
+    "image": "https://logo.clearbit.com/www.mealsonwheelsamerica.org"
+  },
+  {
+    "name": "The Salvation Army",
+    "website": "https://www.salvationarmyusa.org",
+    "category": "Civil Rights & Social Justice",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Social services, shelters, rehab programs.",
+    "image": "https://logo.clearbit.com/www.salvationarmyusa.org"
+  },
+  {
+    "name": "International Orthodox Christian Charities",
+    "website": "https://iocc.org",
+    "category": "Civil Rights & Social Justice",
+    "location": "Global",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Humanitarian relief and development programs.",
+    "image": "https://logo.clearbit.com/iocc.org"
+  },
+  {
+    "name": "Wounded Warrior Project",
+    "website": "https://www.woundedwarriorproject.org",
+    "category": "Civil Rights & Social Justice",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Programs and services for wounded veterans.",
+    "image": "https://logo.clearbit.com/www.woundedwarriorproject.org"
+  },
+  {
+    "name": "Goodwill Industries International",
+    "website": "https://www.goodwill.org",
+    "category": "Civil Rights & Social Justice",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Job training and employment services.",
+    "image": "https://logo.clearbit.com/www.goodwill.org"
+  },
+  {
+    "name": "NPR",
+    "website": "https://www.npr.org",
+    "category": "Civil Rights & Social Justice",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Independent, nonprofit media organization.",
+    "image": "https://logo.clearbit.com/www.npr.org"
+  },
+  {
+    "name": "American Heart Association",
+    "website": "https://www.heart.org",
+    "category": "Civil Rights & Social Justice",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Fighting heart disease and stroke.",
+    "image": "https://logo.clearbit.com/www.heart.org"
+  },
+  {
+    "name": "AARP Foundation",
+    "website": "https://www.aarpfoundation.org",
+    "category": "Civil Rights & Social Justice",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Works to end senior poverty.",
+    "image": "https://logo.clearbit.com/www.aarpfoundation.org"
+  },
+  {
+    "name": "Doctors Without Borders (MSF)",
+    "website": "https://www.doctorswithoutborders.org",
+    "category": "Civil Rights & Social Justice",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Medical humanitarian assistance in crises.",
+    "image": "https://logo.clearbit.com/www.doctorswithoutborders.org"
+  },
+  {
+    "name": "First Nations Development Institute",
+    "website": "https://www.firstnations.org",
+    "category": "Civil Rights & Social Justice",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Strengthening Native economies.",
+    "image": "https://logo.clearbit.com/www.firstnations.org"
+  },
+  {
+    "name": "Smithsonian Institution",
+    "website": "https://www.si.edu",
+    "category": "Civil Rights & Social Justice",
+    "location": "USA/DC",
+    "size": "Large",
+    "verified": true,
+    "blurb": "World’s largest museum & research complex.",
+    "image": "https://logo.clearbit.com/www.si.edu"
+  },
+  {
+    "name": "Mozilla Foundation",
+    "website": "https://www.mozilla.org",
+    "category": "Civil Rights & Social Justice",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Internet health, privacy, open‑source initiatives.",
+    "image": "https://logo.clearbit.com/www.mozilla.org"
+  },
+  {
+    "name": "World Central Kitchen",
+    "website": "https://wck.org",
+    "category": "Civil Rights & Social Justice",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Meals in response to humanitarian crises.",
+    "image": "https://logo.clearbit.com/wck.org"
+  },
+  {
+    "name": "United Way",
+    "website": "https://www.unitedway.org",
+    "category": "Community Development",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Community‑based programs and initiatives.",
+    "image": "https://logo.clearbit.com/www.unitedway.org"
+  },
+  {
+    "name": "The Salvation Army",
+    "website": "https://www.salvationarmyusa.org",
+    "category": "Community Development",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Social services, shelters, rehab programs.",
+    "image": "https://logo.clearbit.com/www.salvationarmyusa.org"
+  },
+  {
+    "name": "First Nations Development Institute",
+    "website": "https://www.firstnations.org",
+    "category": "Community Development",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Strengthening Native economies.",
+    "image": "https://logo.clearbit.com/www.firstnations.org"
+  },
+  {
+    "name": "Wounded Warrior Project",
+    "website": "https://www.woundedwarriorproject.org",
+    "category": "Community Development",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Programs and services for wounded veterans.",
+    "image": "https://logo.clearbit.com/www.woundedwarriorproject.org"
+  },
+  {
+    "name": "Sierra Club Foundation",
+    "website": "https://www.sierraclubfoundation.org",
+    "category": "Community Development",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Supports grassroots environmental advocacy.",
+    "image": "https://logo.clearbit.com/www.sierraclubfoundation.org"
+  },
+  {
+    "name": "Conservation International",
+    "website": "https://www.conservation.org",
+    "category": "Community Development",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Protecting nature for people and planet.",
+    "image": "https://logo.clearbit.com/www.conservation.org"
+  },
+  {
+    "name": "Autism Speaks",
+    "website": "https://www.autismspeaks.org",
+    "category": "Community Development",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Autism advocacy, services, and research.",
+    "image": "https://logo.clearbit.com/www.autismspeaks.org"
+  },
+  {
+    "name": "Action Against Hunger",
+    "website": "https://www.actionagainsthunger.org",
+    "category": "Community Development",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Preventing and treating life‑threatening hunger.",
+    "image": "https://logo.clearbit.com/www.actionagainsthunger.org"
+  },
+  {
+    "name": "YMCA",
+    "website": "https://www.ymca.org",
+    "category": "Community Development",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Youth programs and community recreation.",
+    "image": "https://logo.clearbit.com/www.ymca.org"
+  },
+  {
+    "name": "Boys & Girls Clubs of America",
+    "website": "https://www.bgca.org",
+    "category": "Community Development",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "After‑school programs and mentoring.",
+    "image": "https://logo.clearbit.com/www.bgca.org"
+  },
+  {
+    "name": "World Animal Protection",
+    "website": "https://www.worldanimalprotection.us",
+    "category": "Community Development",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Moves the world to protect animals.",
+    "image": "https://logo.clearbit.com/www.worldanimalprotection.us"
+  },
+  {
+    "name": "Special Olympics",
+    "website": "https://www.specialolympics.org",
+    "category": "Community Development",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Sports for people with intellectual disabilities.",
+    "image": "https://logo.clearbit.com/www.specialolympics.org"
+  },
+  {
+    "name": "Futures Without Violence",
+    "website": "https://www.futureswithoutviolence.org",
+    "category": "Community Development",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Ending violence against women & children.",
+    "image": "https://logo.clearbit.com/www.futureswithoutviolence.org"
+  },
+  {
+    "name": "City Harvest",
+    "website": "https://www.cityharvest.org",
+    "category": "Community Development",
+    "location": "USA/NY",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Rescues food to feed New Yorkers in need.",
+    "image": "https://logo.clearbit.com/www.cityharvest.org"
+  },
+  {
+    "name": "Partners In Health",
+    "website": "https://www.pih.org",
+    "category": "Community Development",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Brings quality health care to poor regions.",
+    "image": "https://logo.clearbit.com/www.pih.org"
+  },
+  {
+    "name": "PetSmart Charities",
+    "website": "https://petsmartcharities.org",
+    "category": "Community Development",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Supports animal welfare through adoption & grants.",
+    "image": "https://logo.clearbit.com/petsmartcharities.org"
+  },
+  {
+    "name": "Smithsonian Institution",
+    "website": "https://www.si.edu",
+    "category": "Community Development",
+    "location": "USA/DC",
+    "size": "Large",
+    "verified": true,
+    "blurb": "World’s largest museum & research complex.",
+    "image": "https://logo.clearbit.com/www.si.edu"
+  },
+  {
+    "name": "Playworks",
+    "website": "https://www.playworks.org",
+    "category": "Community Development",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Recess and play to transform schools.",
+    "image": "https://logo.clearbit.com/www.playworks.org"
+  },
+  {
+    "name": "Feeding Tampa Bay",
+    "website": "https://www.feedingtampabay.org",
+    "category": "Community Development",
+    "location": "USA/FL",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Regional food bank serving West Central Florida.",
+    "image": "https://logo.clearbit.com/www.feedingtampabay.org"
+  },
+  {
+    "name": "American Red Cross",
+    "website": "https://www.redcross.org",
+    "category": "Disaster Relief & Emergency Services",
+    "location": "USA/Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Disaster relief, blood services, preparedness.",
+    "image": "https://logo.clearbit.com/www.redcross.org"
+  },
+  {
+    "name": "Direct Relief",
+    "website": "https://www.directrelief.org",
+    "category": "Disaster Relief & Emergency Services",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Medical aid to improve health after disasters.",
+    "image": "https://logo.clearbit.com/www.directrelief.org"
+  },
+  {
+    "name": "World Central Kitchen",
+    "website": "https://wck.org",
+    "category": "Disaster Relief & Emergency Services",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Meals in response to humanitarian crises.",
+    "image": "https://logo.clearbit.com/wck.org"
+  },
+  {
+    "name": "ShelterBox USA",
+    "website": "https://www.shelterboxusa.org",
+    "category": "Disaster Relief & Emergency Services",
+    "location": "Global",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Emergency shelter & tools for families.",
+    "image": "https://logo.clearbit.com/www.shelterboxusa.org"
+  },
+  {
+    "name": "NPR",
+    "website": "https://www.npr.org",
+    "category": "Disaster Relief & Emergency Services",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Independent, nonprofit media organization.",
+    "image": "https://logo.clearbit.com/www.npr.org"
+  },
+  {
+    "name": "YMCA",
+    "website": "https://www.ymca.org",
+    "category": "Disaster Relief & Emergency Services",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Youth programs and community recreation.",
+    "image": "https://logo.clearbit.com/www.ymca.org"
+  },
+  {
+    "name": "Mozilla Foundation",
+    "website": "https://www.mozilla.org",
+    "category": "Disaster Relief & Emergency Services",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Internet health, privacy, open‑source initiatives.",
+    "image": "https://logo.clearbit.com/www.mozilla.org"
+  },
+  {
+    "name": "Wikimedia Foundation",
+    "website": "https://wikimediafoundation.org",
+    "category": "Disaster Relief & Emergency Services",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Free knowledge projects like Wikipedia.",
+    "image": "https://logo.clearbit.com/wikimediafoundation.org"
+  },
+  {
+    "name": "International Rescue Committee",
+    "website": "https://www.rescue.org",
+    "category": "Disaster Relief & Emergency Services",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Aids people affected by conflict and disaster.",
+    "image": "https://logo.clearbit.com/www.rescue.org"
+  },
+  {
+    "name": "Catholic Relief Services",
+    "website": "https://www.crs.org",
+    "category": "Disaster Relief & Emergency Services",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Faith‑based international relief & development.",
+    "image": "https://logo.clearbit.com/www.crs.org"
+  },
+  {
+    "name": "Meals on Wheels America",
+    "website": "https://www.mealsonwheelsamerica.org",
+    "category": "Disaster Relief & Emergency Services",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Delivers meals to seniors.",
+    "image": "https://logo.clearbit.com/www.mealsonwheelsamerica.org"
+  },
+  {
+    "name": "ACLU",
+    "website": "https://www.aclu.org",
+    "category": "Disaster Relief & Emergency Services",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Defends civil liberties and civil rights.",
+    "image": "https://logo.clearbit.com/www.aclu.org"
+  },
+  {
+    "name": "First Nations Development Institute",
+    "website": "https://www.firstnations.org",
+    "category": "Disaster Relief & Emergency Services",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Strengthening Native economies.",
+    "image": "https://logo.clearbit.com/www.firstnations.org"
+  },
+  {
+    "name": "Humane Society of the United States",
+    "website": "https://www.humanesociety.org",
+    "category": "Disaster Relief & Emergency Services",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Ending suffering for all animals.",
+    "image": "https://logo.clearbit.com/www.humanesociety.org"
+  },
+  {
+    "name": "Autism Speaks",
+    "website": "https://www.autismspeaks.org",
+    "category": "Disaster Relief & Emergency Services",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Autism advocacy, services, and research.",
+    "image": "https://logo.clearbit.com/www.autismspeaks.org"
+  },
+  {
+    "name": "Feeding America",
+    "website": "https://www.feedingamerica.org",
+    "category": "Disaster Relief & Emergency Services",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Nationwide network of food banks tackling hunger.",
+    "image": "https://logo.clearbit.com/www.feedingamerica.org"
+  },
+  {
+    "name": "Sierra Club Foundation",
+    "website": "https://www.sierraclubfoundation.org",
+    "category": "Disaster Relief & Emergency Services",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Supports grassroots environmental advocacy.",
+    "image": "https://logo.clearbit.com/www.sierraclubfoundation.org"
+  },
+  {
+    "name": "Environmental Defense Fund",
+    "website": "https://www.edf.org",
+    "category": "Disaster Relief & Emergency Services",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Tackling critical environmental problems.",
+    "image": "https://logo.clearbit.com/www.edf.org"
+  },
+  {
+    "name": "St. Jude Children’s Research Hospital",
+    "website": "https://www.stjude.org",
+    "category": "Disease Research & Treatment",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Pediatric treatment & research—families never billed.",
+    "image": "https://logo.clearbit.com/www.stjude.org"
+  },
+  {
+    "name": "American Cancer Society",
+    "website": "https://www.cancer.org",
+    "category": "Disease Research & Treatment",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Cancer research, education, and patient support.",
+    "image": "https://logo.clearbit.com/www.cancer.org"
+  },
+  {
+    "name": "American Heart Association",
+    "website": "https://www.heart.org",
+    "category": "Disease Research & Treatment",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Fighting heart disease and stroke.",
+    "image": "https://logo.clearbit.com/www.heart.org"
+  },
+  {
+    "name": "Alzheimer’s Association",
+    "website": "https://www.alz.org",
+    "category": "Disease Research & Treatment",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Accelerating research and early detection.",
+    "image": "https://logo.clearbit.com/www.alz.org"
+  },
+  {
+    "name": "Best Friends Animal Society",
+    "website": "https://bestfriends.org",
+    "category": "Disease Research & Treatment",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Leading the no‑kill movement for pets.",
+    "image": "https://logo.clearbit.com/bestfriends.org"
+  },
+  {
+    "name": "Islamic Relief USA",
+    "website": "https://irusa.org",
+    "category": "Disease Research & Treatment",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Humanitarian aid & development.",
+    "image": "https://logo.clearbit.com/irusa.org"
+  },
+  {
+    "name": "Big Brothers Big Sisters of America",
+    "website": "https://www.bbbs.org",
+    "category": "Disease Research & Treatment",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "One‑to‑one youth mentoring.",
+    "image": "https://logo.clearbit.com/www.bbbs.org"
+  },
+  {
+    "name": "Goodwill Industries International",
+    "website": "https://www.goodwill.org",
+    "category": "Disease Research & Treatment",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Job training and employment services.",
+    "image": "https://logo.clearbit.com/www.goodwill.org"
+  },
+  {
+    "name": "Planned Parenthood",
+    "website": "https://www.plannedparenthood.org",
+    "category": "Disease Research & Treatment",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Sexual and reproductive health care & education.",
+    "image": "https://logo.clearbit.com/www.plannedparenthood.org"
+  },
+  {
+    "name": "Sierra Club Foundation",
+    "website": "https://www.sierraclubfoundation.org",
+    "category": "Disease Research & Treatment",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Supports grassroots environmental advocacy.",
+    "image": "https://logo.clearbit.com/www.sierraclubfoundation.org"
+  },
+  {
+    "name": "Southern Poverty Law Center",
+    "website": "https://www.splcenter.org",
+    "category": "Disease Research & Treatment",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Fighting hate and bigotry.",
+    "image": "https://logo.clearbit.com/www.splcenter.org"
+  },
+  {
+    "name": "GiveDirectly",
+    "website": "https://www.givedirectly.org",
+    "category": "Disease Research & Treatment",
+    "location": "Global",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Direct cash transfers to people in poverty.",
+    "image": "https://logo.clearbit.com/www.givedirectly.org"
+  },
+  {
+    "name": "CARE",
+    "website": "https://www.care.org",
+    "category": "Disease Research & Treatment",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Fights global poverty and provides emergency relief.",
+    "image": "https://logo.clearbit.com/www.care.org"
+  },
+  {
+    "name": "Partners In Health",
+    "website": "https://www.pih.org",
+    "category": "Disease Research & Treatment",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Brings quality health care to poor regions.",
+    "image": "https://logo.clearbit.com/www.pih.org"
+  },
+  {
+    "name": "Human Rights Watch",
+    "website": "https://www.hrw.org",
+    "category": "Disease Research & Treatment",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Investigations and advocacy for human rights.",
+    "image": "https://logo.clearbit.com/www.hrw.org"
+  },
+  {
+    "name": "World Vision",
+    "website": "https://www.worldvision.org",
+    "category": "Disease Research & Treatment",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Christian humanitarian organization helping children.",
+    "image": "https://logo.clearbit.com/www.worldvision.org"
+  },
+  {
+    "name": "International Rescue Committee",
+    "website": "https://www.rescue.org",
+    "category": "Disease Research & Treatment",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Aids people affected by conflict and disaster.",
+    "image": "https://logo.clearbit.com/www.rescue.org"
+  },
+  {
+    "name": "City Harvest",
+    "website": "https://www.cityharvest.org",
+    "category": "Disease Research & Treatment",
+    "location": "USA/NY",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Rescues food to feed New Yorkers in need.",
+    "image": "https://logo.clearbit.com/www.cityharvest.org"
+  },
+  {
+    "name": "Catholic Relief Services",
+    "website": "https://www.crs.org",
+    "category": "Disease Research & Treatment",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Faith‑based international relief & development.",
+    "image": "https://logo.clearbit.com/www.crs.org"
+  },
+  {
+    "name": "RAINN",
+    "website": "https://www.rainn.org",
+    "category": "Domestic Violence & Abuse Prevention",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Rape, Abuse & Incest National Network—support line.",
+    "image": "https://logo.clearbit.com/www.rainn.org"
+  },
+  {
+    "name": "Futures Without Violence",
+    "website": "https://www.futureswithoutviolence.org",
+    "category": "Domestic Violence & Abuse Prevention",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Ending violence against women & children.",
+    "image": "https://logo.clearbit.com/www.futureswithoutviolence.org"
+  },
+  {
+    "name": "Humane Society of the United States",
+    "website": "https://www.humanesociety.org",
+    "category": "Domestic Violence & Abuse Prevention",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Ending suffering for all animals.",
+    "image": "https://logo.clearbit.com/www.humanesociety.org"
+  },
+  {
+    "name": "American Library Association",
+    "website": "https://www.ala.org",
+    "category": "Domestic Violence & Abuse Prevention",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Advocates for libraries and information services.",
+    "image": "https://logo.clearbit.com/www.ala.org"
+  },
+  {
+    "name": "The Trevor Project",
+    "website": "https://www.thetrevorproject.org",
+    "category": "Domestic Violence & Abuse Prevention",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Crisis support & suicide prevention for LGBTQ+ youth.",
+    "image": "https://logo.clearbit.com/www.thetrevorproject.org"
+  },
+  {
+    "name": "Code.org",
+    "website": "https://code.org",
+    "category": "Domestic Violence & Abuse Prevention",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Expanding access to computer science in schools.",
+    "image": "https://logo.clearbit.com/code.org"
+  },
+  {
+    "name": "International Orthodox Christian Charities",
+    "website": "https://iocc.org",
+    "category": "Domestic Violence & Abuse Prevention",
+    "location": "Global",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Humanitarian relief and development programs.",
+    "image": "https://logo.clearbit.com/iocc.org"
+  },
+  {
+    "name": "World Food Programme USA",
+    "website": "https://www.wfpusa.org",
+    "category": "Domestic Violence & Abuse Prevention",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Supports the UN World Food Programme’s hunger relief.",
+    "image": "https://logo.clearbit.com/www.wfpusa.org"
+  },
+  {
+    "name": "GiveDirectly",
+    "website": "https://www.givedirectly.org",
+    "category": "Domestic Violence & Abuse Prevention",
+    "location": "Global",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Direct cash transfers to people in poverty.",
+    "image": "https://logo.clearbit.com/www.givedirectly.org"
+  },
+  {
+    "name": "Oxfam America",
+    "website": "https://www.oxfamamerica.org",
+    "category": "Domestic Violence & Abuse Prevention",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Working to end the injustice of poverty.",
+    "image": "https://logo.clearbit.com/www.oxfamamerica.org"
+  },
+  {
+    "name": "ShelterBox USA",
+    "website": "https://www.shelterboxusa.org",
+    "category": "Domestic Violence & Abuse Prevention",
+    "location": "Global",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Emergency shelter & tools for families.",
+    "image": "https://logo.clearbit.com/www.shelterboxusa.org"
+  },
+  {
+    "name": "St. Jude Children’s Research Hospital",
+    "website": "https://www.stjude.org",
+    "category": "Domestic Violence & Abuse Prevention",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Pediatric treatment & research—families never billed.",
+    "image": "https://logo.clearbit.com/www.stjude.org"
+  },
+  {
+    "name": "United Way",
+    "website": "https://www.unitedway.org",
+    "category": "Domestic Violence & Abuse Prevention",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Community‑based programs and initiatives.",
+    "image": "https://logo.clearbit.com/www.unitedway.org"
+  },
+  {
+    "name": "American Cancer Society",
+    "website": "https://www.cancer.org",
+    "category": "Domestic Violence & Abuse Prevention",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Cancer research, education, and patient support.",
+    "image": "https://logo.clearbit.com/www.cancer.org"
+  },
+  {
+    "name": "Goodwill Industries International",
+    "website": "https://www.goodwill.org",
+    "category": "Domestic Violence & Abuse Prevention",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Job training and employment services.",
+    "image": "https://logo.clearbit.com/www.goodwill.org"
+  },
+  {
+    "name": "Ocean Conservancy",
+    "website": "https://oceanconservancy.org",
+    "category": "Domestic Violence & Abuse Prevention",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Science‑based solutions for a healthy ocean.",
+    "image": "https://logo.clearbit.com/oceanconservancy.org"
+  },
+  {
+    "name": "Human Rights Watch",
+    "website": "https://www.hrw.org",
+    "category": "Domestic Violence & Abuse Prevention",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Investigations and advocacy for human rights.",
+    "image": "https://logo.clearbit.com/www.hrw.org"
+  },
+  {
+    "name": "Smithsonian Institution",
+    "website": "https://www.si.edu",
+    "category": "Domestic Violence & Abuse Prevention",
+    "location": "USA/DC",
+    "size": "Large",
+    "verified": true,
+    "blurb": "World’s largest museum & research complex.",
+    "image": "https://logo.clearbit.com/www.si.edu"
+  },
+  {
+    "name": "World Vision",
+    "website": "https://www.worldvision.org",
+    "category": "Domestic Violence & Abuse Prevention",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Christian humanitarian organization helping children.",
+    "image": "https://logo.clearbit.com/www.worldvision.org"
+  },
+  {
+    "name": "American Red Cross",
+    "website": "https://www.redcross.org",
+    "category": "Domestic Violence & Abuse Prevention",
+    "location": "USA/Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Disaster relief, blood services, preparedness.",
+    "image": "https://logo.clearbit.com/www.redcross.org"
+  },
+  {
+    "name": "DonorsChoose",
+    "website": "https://www.donorschoose.org",
+    "category": "Education & Schools",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Funds classroom projects for public school teachers.",
+    "image": "https://logo.clearbit.com/www.donorschoose.org"
+  },
+  {
+    "name": "Room to Read",
+    "website": "https://www.roomtoread.org",
+    "category": "Education & Schools",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Literacy and girls’ education programs.",
+    "image": "https://logo.clearbit.com/www.roomtoread.org"
+  },
+  {
+    "name": "Scholarship America",
+    "website": "https://scholarshipamerica.org",
+    "category": "Education & Schools",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Scholarship programs and guidance.",
+    "image": "https://logo.clearbit.com/scholarshipamerica.org"
+  },
+  {
+    "name": "Teach For America",
+    "website": "https://www.teachforamerica.org",
+    "category": "Education & Schools",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Leaders expanding educational opportunity.",
+    "image": "https://logo.clearbit.com/www.teachforamerica.org"
+  },
+  {
+    "name": "Fisher House Foundation",
+    "website": "https://fisherhouse.org",
+    "category": "Education & Schools",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Comfort homes for military & veteran families.",
+    "image": "https://logo.clearbit.com/fisherhouse.org"
+  },
+  {
+    "name": "Playworks",
+    "website": "https://www.playworks.org",
+    "category": "Education & Schools",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Recess and play to transform schools.",
+    "image": "https://logo.clearbit.com/www.playworks.org"
+  },
+  {
+    "name": "St. Jude Children’s Research Hospital",
+    "website": "https://www.stjude.org",
+    "category": "Education & Schools",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Pediatric treatment & research—families never billed.",
+    "image": "https://logo.clearbit.com/www.stjude.org"
+  },
+  {
+    "name": "ShelterBox USA",
+    "website": "https://www.shelterboxusa.org",
+    "category": "Education & Schools",
+    "location": "Global",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Emergency shelter & tools for families.",
+    "image": "https://logo.clearbit.com/www.shelterboxusa.org"
+  },
+  {
+    "name": "Southern Poverty Law Center",
+    "website": "https://www.splcenter.org",
+    "category": "Education & Schools",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Fighting hate and bigotry.",
+    "image": "https://logo.clearbit.com/www.splcenter.org"
+  },
+  {
+    "name": "Alzheimer’s Association",
+    "website": "https://www.alz.org",
+    "category": "Education & Schools",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Accelerating research and early detection.",
+    "image": "https://logo.clearbit.com/www.alz.org"
+  },
+  {
+    "name": "Humane Society of the United States",
+    "website": "https://www.humanesociety.org",
+    "category": "Education & Schools",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Ending suffering for all animals.",
+    "image": "https://logo.clearbit.com/www.humanesociety.org"
+  },
+  {
+    "name": "American Heart Association",
+    "website": "https://www.heart.org",
+    "category": "Education & Schools",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Fighting heart disease and stroke.",
+    "image": "https://logo.clearbit.com/www.heart.org"
+  },
+  {
+    "name": "The Salvation Army",
+    "website": "https://www.salvationarmyusa.org",
+    "category": "Education & Schools",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Social services, shelters, rehab programs.",
+    "image": "https://logo.clearbit.com/www.salvationarmyusa.org"
+  },
+  {
+    "name": "Catholic Relief Services",
+    "website": "https://www.crs.org",
+    "category": "Education & Schools",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Faith‑based international relief & development.",
+    "image": "https://logo.clearbit.com/www.crs.org"
+  },
+  {
+    "name": "Heifer International",
+    "website": "https://www.heifer.org",
+    "category": "Education & Schools",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Sustainable agriculture to end hunger and poverty.",
+    "image": "https://logo.clearbit.com/www.heifer.org"
+  },
+  {
+    "name": "Islamic Relief USA",
+    "website": "https://irusa.org",
+    "category": "Education & Schools",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Humanitarian aid & development.",
+    "image": "https://logo.clearbit.com/irusa.org"
+  },
+  {
+    "name": "Mozilla Foundation",
+    "website": "https://www.mozilla.org",
+    "category": "Education & Schools",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Internet health, privacy, open‑source initiatives.",
+    "image": "https://logo.clearbit.com/www.mozilla.org"
+  },
+  {
+    "name": "United Way",
+    "website": "https://www.unitedway.org",
+    "category": "Education & Schools",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Community‑based programs and initiatives.",
+    "image": "https://logo.clearbit.com/www.unitedway.org"
+  },
+  {
+    "name": "First Nations Development Institute",
+    "website": "https://www.firstnations.org",
+    "category": "Education & Schools",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Strengthening Native economies.",
+    "image": "https://logo.clearbit.com/www.firstnations.org"
+  },
+  {
+    "name": "Goodwill Industries International",
+    "website": "https://www.goodwill.org",
+    "category": "Employment & Job Training",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Job training and employment services.",
+    "image": "https://logo.clearbit.com/www.goodwill.org"
+  },
+  {
+    "name": "DonorsChoose",
+    "website": "https://www.donorschoose.org",
+    "category": "Employment & Job Training",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Funds classroom projects for public school teachers.",
+    "image": "https://logo.clearbit.com/www.donorschoose.org"
+  },
+  {
+    "name": "United Way",
+    "website": "https://www.unitedway.org",
+    "category": "Employment & Job Training",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Community‑based programs and initiatives.",
+    "image": "https://logo.clearbit.com/www.unitedway.org"
+  },
+  {
+    "name": "International Rescue Committee",
+    "website": "https://www.rescue.org",
+    "category": "Employment & Job Training",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Aids people affected by conflict and disaster.",
+    "image": "https://logo.clearbit.com/www.rescue.org"
+  },
+  {
+    "name": "Feeding America",
+    "website": "https://www.feedingamerica.org",
+    "category": "Employment & Job Training",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Nationwide network of food banks tackling hunger.",
+    "image": "https://logo.clearbit.com/www.feedingamerica.org"
+  },
+  {
+    "name": "Best Friends Animal Society",
+    "website": "https://bestfriends.org",
+    "category": "Employment & Job Training",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Leading the no‑kill movement for pets.",
+    "image": "https://logo.clearbit.com/bestfriends.org"
+  },
+  {
+    "name": "Conservation International",
+    "website": "https://www.conservation.org",
+    "category": "Employment & Job Training",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Protecting nature for people and planet.",
+    "image": "https://logo.clearbit.com/www.conservation.org"
+  },
+  {
+    "name": "Fisher House Foundation",
+    "website": "https://fisherhouse.org",
+    "category": "Employment & Job Training",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Comfort homes for military & veteran families.",
+    "image": "https://logo.clearbit.com/fisherhouse.org"
+  },
+  {
+    "name": "Wounded Warrior Project",
+    "website": "https://www.woundedwarriorproject.org",
+    "category": "Employment & Job Training",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Programs and services for wounded veterans.",
+    "image": "https://logo.clearbit.com/www.woundedwarriorproject.org"
+  },
+  {
+    "name": "PetSmart Charities",
+    "website": "https://petsmartcharities.org",
+    "category": "Employment & Job Training",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Supports animal welfare through adoption & grants.",
+    "image": "https://logo.clearbit.com/petsmartcharities.org"
+  },
+  {
+    "name": "Humane Society of the United States",
+    "website": "https://www.humanesociety.org",
+    "category": "Employment & Job Training",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Ending suffering for all animals.",
+    "image": "https://logo.clearbit.com/www.humanesociety.org"
+  },
+  {
+    "name": "Smithsonian Institution",
+    "website": "https://www.si.edu",
+    "category": "Employment & Job Training",
+    "location": "USA/DC",
+    "size": "Large",
+    "verified": true,
+    "blurb": "World’s largest museum & research complex.",
+    "image": "https://logo.clearbit.com/www.si.edu"
+  },
+  {
+    "name": "Feeding Tampa Bay",
+    "website": "https://www.feedingtampabay.org",
+    "category": "Employment & Job Training",
+    "location": "USA/FL",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Regional food bank serving West Central Florida.",
+    "image": "https://logo.clearbit.com/www.feedingtampabay.org"
+  },
+  {
+    "name": "Room to Read",
+    "website": "https://www.roomtoread.org",
+    "category": "Employment & Job Training",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Literacy and girls’ education programs.",
+    "image": "https://logo.clearbit.com/www.roomtoread.org"
+  },
+  {
+    "name": "Heifer International",
+    "website": "https://www.heifer.org",
+    "category": "Employment & Job Training",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Sustainable agriculture to end hunger and poverty.",
+    "image": "https://logo.clearbit.com/www.heifer.org"
+  },
+  {
+    "name": "Doctors Without Borders (MSF)",
+    "website": "https://www.doctorswithoutborders.org",
+    "category": "Employment & Job Training",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Medical humanitarian assistance in crises.",
+    "image": "https://logo.clearbit.com/www.doctorswithoutborders.org"
+  },
+  {
+    "name": "Mercy Corps",
+    "website": "https://www.mercycorps.org",
+    "category": "Employment & Job Training",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Helps people build secure, productive communities.",
+    "image": "https://logo.clearbit.com/www.mercycorps.org"
+  },
+  {
+    "name": "Travis Manion Foundation",
+    "website": "https://www.travismanion.org",
+    "category": "Employment & Job Training",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Empowering veterans & families of the fallen.",
+    "image": "https://logo.clearbit.com/www.travismanion.org"
+  },
+  {
+    "name": "Oxfam America",
+    "website": "https://www.oxfamamerica.org",
+    "category": "Employment & Job Training",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Working to end the injustice of poverty.",
+    "image": "https://logo.clearbit.com/www.oxfamamerica.org"
+  },
+  {
+    "name": "Teach For America",
+    "website": "https://www.teachforamerica.org",
+    "category": "Employment & Job Training",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Leaders expanding educational opportunity.",
+    "image": "https://logo.clearbit.com/www.teachforamerica.org"
+  },
+  {
+    "name": "World Wildlife Fund",
+    "website": "https://www.worldwildlife.org",
+    "category": "Environmental & Conservation",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Protecting wildlife and wild places.",
+    "image": "https://logo.clearbit.com/www.worldwildlife.org"
+  },
+  {
+    "name": "The Nature Conservancy",
+    "website": "https://www.nature.org",
+    "category": "Environmental & Conservation",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Conserving lands and waters for people and nature.",
+    "image": "https://logo.clearbit.com/www.nature.org"
+  },
+  {
+    "name": "Sierra Club Foundation",
+    "website": "https://www.sierraclubfoundation.org",
+    "category": "Environmental & Conservation",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Supports grassroots environmental advocacy.",
+    "image": "https://logo.clearbit.com/www.sierraclubfoundation.org"
+  },
+  {
+    "name": "Ocean Conservancy",
+    "website": "https://oceanconservancy.org",
+    "category": "Environmental & Conservation",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Science‑based solutions for a healthy ocean.",
+    "image": "https://logo.clearbit.com/oceanconservancy.org"
+  },
+  {
+    "name": "Environmental Defense Fund",
+    "website": "https://www.edf.org",
+    "category": "Environmental & Conservation",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Tackling critical environmental problems.",
+    "image": "https://logo.clearbit.com/www.edf.org"
+  },
+  {
+    "name": "Conservation International",
+    "website": "https://www.conservation.org",
+    "category": "Environmental & Conservation",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Protecting nature for people and planet.",
+    "image": "https://logo.clearbit.com/www.conservation.org"
+  },
+  {
+    "name": "AARP Foundation",
+    "website": "https://www.aarpfoundation.org",
+    "category": "Environmental & Conservation",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Works to end senior poverty.",
+    "image": "https://logo.clearbit.com/www.aarpfoundation.org"
+  },
+  {
+    "name": "ASPCA",
+    "website": "https://www.aspca.org",
+    "category": "Environmental & Conservation",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Prevents cruelty to animals and advances welfare.",
+    "image": "https://logo.clearbit.com/www.aspca.org"
+  },
+  {
+    "name": "Planned Parenthood",
+    "website": "https://www.plannedparenthood.org",
+    "category": "Environmental & Conservation",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Sexual and reproductive health care & education.",
+    "image": "https://logo.clearbit.com/www.plannedparenthood.org"
+  },
+  {
+    "name": "Playworks",
+    "website": "https://www.playworks.org",
+    "category": "Environmental & Conservation",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Recess and play to transform schools.",
+    "image": "https://logo.clearbit.com/www.playworks.org"
+  },
+  {
+    "name": "Southern Poverty Law Center",
+    "website": "https://www.splcenter.org",
+    "category": "Environmental & Conservation",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Fighting hate and bigotry.",
+    "image": "https://logo.clearbit.com/www.splcenter.org"
+  },
+  {
+    "name": "Teach For America",
+    "website": "https://www.teachforamerica.org",
+    "category": "Environmental & Conservation",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Leaders expanding educational opportunity.",
+    "image": "https://logo.clearbit.com/www.teachforamerica.org"
+  },
+  {
+    "name": "Wounded Warrior Project",
+    "website": "https://www.woundedwarriorproject.org",
+    "category": "Environmental & Conservation",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Programs and services for wounded veterans.",
+    "image": "https://logo.clearbit.com/www.woundedwarriorproject.org"
+  },
+  {
+    "name": "CARE",
+    "website": "https://www.care.org",
+    "category": "Environmental & Conservation",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Fights global poverty and provides emergency relief.",
+    "image": "https://logo.clearbit.com/www.care.org"
+  },
+  {
+    "name": "Code.org",
+    "website": "https://code.org",
+    "category": "Environmental & Conservation",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Expanding access to computer science in schools.",
+    "image": "https://logo.clearbit.com/code.org"
+  },
+  {
+    "name": "Autism Speaks",
+    "website": "https://www.autismspeaks.org",
+    "category": "Environmental & Conservation",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Autism advocacy, services, and research.",
+    "image": "https://logo.clearbit.com/www.autismspeaks.org"
+  },
+  {
+    "name": "Public Counsel",
+    "website": "https://publiccounsel.org",
+    "category": "Environmental & Conservation",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Largest pro bono law firm—justice & opportunity.",
+    "image": "https://logo.clearbit.com/publiccounsel.org"
+  },
+  {
+    "name": "World Animal Protection",
+    "website": "https://www.worldanimalprotection.us",
+    "category": "Environmental & Conservation",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Moves the world to protect animals.",
+    "image": "https://logo.clearbit.com/www.worldanimalprotection.us"
+  },
+  {
+    "name": "Human Rights Watch",
+    "website": "https://www.hrw.org",
+    "category": "Environmental & Conservation",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Investigations and advocacy for human rights.",
+    "image": "https://logo.clearbit.com/www.hrw.org"
+  },
+  {
+    "name": "Partners In Health",
+    "website": "https://www.pih.org",
+    "category": "Environmental & Conservation",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Brings quality health care to poor regions.",
+    "image": "https://logo.clearbit.com/www.pih.org"
+  },
+  {
+    "name": "Catholic Relief Services",
+    "website": "https://www.crs.org",
+    "category": "Faith-Based & Religious Organizations",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Faith‑based international relief & development.",
+    "image": "https://logo.clearbit.com/www.crs.org"
+  },
+  {
+    "name": "Islamic Relief USA",
+    "website": "https://irusa.org",
+    "category": "Faith-Based & Religious Organizations",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Humanitarian aid & development.",
+    "image": "https://logo.clearbit.com/irusa.org"
+  },
+  {
+    "name": "World Vision",
+    "website": "https://www.worldvision.org",
+    "category": "Faith-Based & Religious Organizations",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Christian humanitarian organization helping children.",
+    "image": "https://logo.clearbit.com/www.worldvision.org"
+  },
+  {
+    "name": "International Orthodox Christian Charities",
+    "website": "https://iocc.org",
+    "category": "Faith-Based & Religious Organizations",
+    "location": "Global",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Humanitarian relief and development programs.",
+    "image": "https://logo.clearbit.com/iocc.org"
+  },
+  {
+    "name": "Human Rights Watch",
+    "website": "https://www.hrw.org",
+    "category": "Faith-Based & Religious Organizations",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Investigations and advocacy for human rights.",
+    "image": "https://logo.clearbit.com/www.hrw.org"
+  },
+  {
+    "name": "First Nations Development Institute",
+    "website": "https://www.firstnations.org",
+    "category": "Faith-Based & Religious Organizations",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Strengthening Native economies.",
+    "image": "https://logo.clearbit.com/www.firstnations.org"
+  },
+  {
+    "name": "Teach For America",
+    "website": "https://www.teachforamerica.org",
+    "category": "Faith-Based & Religious Organizations",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Leaders expanding educational opportunity.",
+    "image": "https://logo.clearbit.com/www.teachforamerica.org"
+  },
+  {
+    "name": "PetSmart Charities",
+    "website": "https://petsmartcharities.org",
+    "category": "Faith-Based & Religious Organizations",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Supports animal welfare through adoption & grants.",
+    "image": "https://logo.clearbit.com/petsmartcharities.org"
+  },
+  {
+    "name": "Futures Without Violence",
+    "website": "https://www.futureswithoutviolence.org",
+    "category": "Faith-Based & Religious Organizations",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Ending violence against women & children.",
+    "image": "https://logo.clearbit.com/www.futureswithoutviolence.org"
+  },
+  {
+    "name": "St. Jude Children’s Research Hospital",
+    "website": "https://www.stjude.org",
+    "category": "Faith-Based & Religious Organizations",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Pediatric treatment & research—families never billed.",
+    "image": "https://logo.clearbit.com/www.stjude.org"
+  },
+  {
+    "name": "GiveDirectly",
+    "website": "https://www.givedirectly.org",
+    "category": "Faith-Based & Religious Organizations",
+    "location": "Global",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Direct cash transfers to people in poverty.",
+    "image": "https://logo.clearbit.com/www.givedirectly.org"
+  },
+  {
+    "name": "Sierra Club Foundation",
+    "website": "https://www.sierraclubfoundation.org",
+    "category": "Faith-Based & Religious Organizations",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Supports grassroots environmental advocacy.",
+    "image": "https://logo.clearbit.com/www.sierraclubfoundation.org"
+  },
+  {
+    "name": "Humane Society of the United States",
+    "website": "https://www.humanesociety.org",
+    "category": "Faith-Based & Religious Organizations",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Ending suffering for all animals.",
+    "image": "https://logo.clearbit.com/www.humanesociety.org"
+  },
+  {
+    "name": "Partners In Health",
+    "website": "https://www.pih.org",
+    "category": "Faith-Based & Religious Organizations",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Brings quality health care to poor regions.",
+    "image": "https://logo.clearbit.com/www.pih.org"
+  },
+  {
+    "name": "Feeding America",
+    "website": "https://www.feedingamerica.org",
+    "category": "Faith-Based & Religious Organizations",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Nationwide network of food banks tackling hunger.",
+    "image": "https://logo.clearbit.com/www.feedingamerica.org"
+  },
+  {
+    "name": "Brennan Center for Justice",
+    "website": "https://www.brennancenter.org",
+    "category": "Faith-Based & Religious Organizations",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Law & policy institute—democracy & justice.",
+    "image": "https://logo.clearbit.com/www.brennancenter.org"
+  },
+  {
+    "name": "Fisher House Foundation",
+    "website": "https://fisherhouse.org",
+    "category": "Faith-Based & Religious Organizations",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Comfort homes for military & veteran families.",
+    "image": "https://logo.clearbit.com/fisherhouse.org"
+  },
+  {
+    "name": "PBS",
+    "website": "https://www.pbs.org",
+    "category": "Faith-Based & Religious Organizations",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Public media and education.",
+    "image": "https://logo.clearbit.com/www.pbs.org"
+  },
+  {
+    "name": "International Rescue Committee",
+    "website": "https://www.rescue.org",
+    "category": "Faith-Based & Religious Organizations",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Aids people affected by conflict and disaster.",
+    "image": "https://logo.clearbit.com/www.rescue.org"
+  },
+  {
+    "name": "American Red Cross",
+    "website": "https://www.redcross.org",
+    "category": "Faith-Based & Religious Organizations",
+    "location": "USA/Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Disaster relief, blood services, preparedness.",
+    "image": "https://logo.clearbit.com/www.redcross.org"
+  },
+  {
+    "name": "Feeding America",
+    "website": "https://www.feedingamerica.org",
+    "category": "Food Security & Hunger Relief",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Nationwide network of food banks tackling hunger.",
+    "image": "https://logo.clearbit.com/www.feedingamerica.org"
+  },
+  {
+    "name": "City Harvest",
+    "website": "https://www.cityharvest.org",
+    "category": "Food Security & Hunger Relief",
+    "location": "USA/NY",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Rescues food to feed New Yorkers in need.",
+    "image": "https://logo.clearbit.com/www.cityharvest.org"
+  },
+  {
+    "name": "Feeding Tampa Bay",
+    "website": "https://www.feedingtampabay.org",
+    "category": "Food Security & Hunger Relief",
+    "location": "USA/FL",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Regional food bank serving West Central Florida.",
+    "image": "https://logo.clearbit.com/www.feedingtampabay.org"
+  },
+  {
+    "name": "Catholic Relief Services",
+    "website": "https://www.crs.org",
+    "category": "Food Security & Hunger Relief",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Faith‑based international relief & development.",
+    "image": "https://logo.clearbit.com/www.crs.org"
+  },
+  {
+    "name": "AARP Foundation",
+    "website": "https://www.aarpfoundation.org",
+    "category": "Food Security & Hunger Relief",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Works to end senior poverty.",
+    "image": "https://logo.clearbit.com/www.aarpfoundation.org"
+  },
+  {
+    "name": "YMCA",
+    "website": "https://www.ymca.org",
+    "category": "Food Security & Hunger Relief",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Youth programs and community recreation.",
+    "image": "https://logo.clearbit.com/www.ymca.org"
+  },
+  {
+    "name": "World Vision",
+    "website": "https://www.worldvision.org",
+    "category": "Food Security & Hunger Relief",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Christian humanitarian organization helping children.",
+    "image": "https://logo.clearbit.com/www.worldvision.org"
+  },
+  {
+    "name": "PetSmart Charities",
+    "website": "https://petsmartcharities.org",
+    "category": "Food Security & Hunger Relief",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Supports animal welfare through adoption & grants.",
+    "image": "https://logo.clearbit.com/petsmartcharities.org"
+  },
+  {
+    "name": "Islamic Relief USA",
+    "website": "https://irusa.org",
+    "category": "Food Security & Hunger Relief",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Humanitarian aid & development.",
+    "image": "https://logo.clearbit.com/irusa.org"
+  },
+  {
+    "name": "Fisher House Foundation",
+    "website": "https://fisherhouse.org",
+    "category": "Food Security & Hunger Relief",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Comfort homes for military & veteran families.",
+    "image": "https://logo.clearbit.com/fisherhouse.org"
+  },
+  {
+    "name": "The Trevor Project",
+    "website": "https://www.thetrevorproject.org",
+    "category": "Food Security & Hunger Relief",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Crisis support & suicide prevention for LGBTQ+ youth.",
+    "image": "https://logo.clearbit.com/www.thetrevorproject.org"
+  },
+  {
+    "name": "Smithsonian Institution",
+    "website": "https://www.si.edu",
+    "category": "Food Security & Hunger Relief",
+    "location": "USA/DC",
+    "size": "Large",
+    "verified": true,
+    "blurb": "World’s largest museum & research complex.",
+    "image": "https://logo.clearbit.com/www.si.edu"
+  },
+  {
+    "name": "Playworks",
+    "website": "https://www.playworks.org",
+    "category": "Food Security & Hunger Relief",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Recess and play to transform schools.",
+    "image": "https://logo.clearbit.com/www.playworks.org"
+  },
+  {
+    "name": "St. Jude Children’s Research Hospital",
+    "website": "https://www.stjude.org",
+    "category": "Food Security & Hunger Relief",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Pediatric treatment & research—families never billed.",
+    "image": "https://logo.clearbit.com/www.stjude.org"
+  },
+  {
+    "name": "Mozilla Foundation",
+    "website": "https://www.mozilla.org",
+    "category": "Food Security & Hunger Relief",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Internet health, privacy, open‑source initiatives.",
+    "image": "https://logo.clearbit.com/www.mozilla.org"
+  },
+  {
+    "name": "Oxfam America",
+    "website": "https://www.oxfamamerica.org",
+    "category": "Food Security & Hunger Relief",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Working to end the injustice of poverty.",
+    "image": "https://logo.clearbit.com/www.oxfamamerica.org"
+  },
+  {
+    "name": "World Animal Protection",
+    "website": "https://www.worldanimalprotection.us",
+    "category": "Food Security & Hunger Relief",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Moves the world to protect animals.",
+    "image": "https://logo.clearbit.com/www.worldanimalprotection.us"
+  },
+  {
+    "name": "Brennan Center for Justice",
+    "website": "https://www.brennancenter.org",
+    "category": "Food Security & Hunger Relief",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Law & policy institute—democracy & justice.",
+    "image": "https://logo.clearbit.com/www.brennancenter.org"
+  },
+  {
+    "name": "Humane Society of the United States",
+    "website": "https://www.humanesociety.org",
+    "category": "Food Security & Hunger Relief",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Ending suffering for all animals.",
+    "image": "https://logo.clearbit.com/www.humanesociety.org"
+  },
+  {
+    "name": "Doctors Without Borders (MSF)",
+    "website": "https://www.doctorswithoutborders.org",
+    "category": "Health & Medical Services",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Medical humanitarian assistance in crises.",
+    "image": "https://logo.clearbit.com/www.doctorswithoutborders.org"
+  },
+  {
+    "name": "Partners In Health",
+    "website": "https://www.pih.org",
+    "category": "Health & Medical Services",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Brings quality health care to poor regions.",
+    "image": "https://logo.clearbit.com/www.pih.org"
+  },
+  {
+    "name": "Planned Parenthood",
+    "website": "https://www.plannedparenthood.org",
+    "category": "Health & Medical Services",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Sexual and reproductive health care & education.",
+    "image": "https://logo.clearbit.com/www.plannedparenthood.org"
+  },
+  {
+    "name": "Public Counsel",
+    "website": "https://publiccounsel.org",
+    "category": "Health & Medical Services",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Largest pro bono law firm—justice & opportunity.",
+    "image": "https://logo.clearbit.com/publiccounsel.org"
+  },
+  {
+    "name": "Fisher House Foundation",
+    "website": "https://fisherhouse.org",
+    "category": "Health & Medical Services",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Comfort homes for military & veteran families.",
+    "image": "https://logo.clearbit.com/fisherhouse.org"
+  },
+  {
+    "name": "Heifer International",
+    "website": "https://www.heifer.org",
+    "category": "Health & Medical Services",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Sustainable agriculture to end hunger and poverty.",
+    "image": "https://logo.clearbit.com/www.heifer.org"
+  },
+  {
+    "name": "ASPCA",
+    "website": "https://www.aspca.org",
+    "category": "Health & Medical Services",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Prevents cruelty to animals and advances welfare.",
+    "image": "https://logo.clearbit.com/www.aspca.org"
+  },
+  {
+    "name": "Goodwill Industries International",
+    "website": "https://www.goodwill.org",
+    "category": "Health & Medical Services",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Job training and employment services.",
+    "image": "https://logo.clearbit.com/www.goodwill.org"
+  },
+  {
+    "name": "American Red Cross",
+    "website": "https://www.redcross.org",
+    "category": "Health & Medical Services",
+    "location": "USA/Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Disaster relief, blood services, preparedness.",
+    "image": "https://logo.clearbit.com/www.redcross.org"
+  },
+  {
+    "name": "Catholic Relief Services",
+    "website": "https://www.crs.org",
+    "category": "Health & Medical Services",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Faith‑based international relief & development.",
+    "image": "https://logo.clearbit.com/www.crs.org"
+  },
+  {
+    "name": "Oxfam America",
+    "website": "https://www.oxfamamerica.org",
+    "category": "Health & Medical Services",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Working to end the injustice of poverty.",
+    "image": "https://logo.clearbit.com/www.oxfamamerica.org"
+  },
+  {
+    "name": "American Heart Association",
+    "website": "https://www.heart.org",
+    "category": "Health & Medical Services",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Fighting heart disease and stroke.",
+    "image": "https://logo.clearbit.com/www.heart.org"
+  },
+  {
+    "name": "Big Brothers Big Sisters of America",
+    "website": "https://www.bbbs.org",
+    "category": "Health & Medical Services",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "One‑to‑one youth mentoring.",
+    "image": "https://logo.clearbit.com/www.bbbs.org"
+  },
+  {
+    "name": "The Trevor Project",
+    "website": "https://www.thetrevorproject.org",
+    "category": "Health & Medical Services",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Crisis support & suicide prevention for LGBTQ+ youth.",
+    "image": "https://logo.clearbit.com/www.thetrevorproject.org"
+  },
+  {
+    "name": "Conservation International",
+    "website": "https://www.conservation.org",
+    "category": "Health & Medical Services",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Protecting nature for people and planet.",
+    "image": "https://logo.clearbit.com/www.conservation.org"
+  },
+  {
+    "name": "Humane Society of the United States",
+    "website": "https://www.humanesociety.org",
+    "category": "Health & Medical Services",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Ending suffering for all animals.",
+    "image": "https://logo.clearbit.com/www.humanesociety.org"
+  },
+  {
+    "name": "Action Against Hunger",
+    "website": "https://www.actionagainsthunger.org",
+    "category": "Health & Medical Services",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Preventing and treating life‑threatening hunger.",
+    "image": "https://logo.clearbit.com/www.actionagainsthunger.org"
+  },
+  {
+    "name": "AARP Foundation",
+    "website": "https://www.aarpfoundation.org",
+    "category": "Health & Medical Services",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Works to end senior poverty.",
+    "image": "https://logo.clearbit.com/www.aarpfoundation.org"
+  },
+  {
+    "name": "Electronic Frontier Foundation",
+    "website": "https://www.eff.org",
+    "category": "Health & Medical Services",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Defending civil liberties in the digital world.",
+    "image": "https://logo.clearbit.com/www.eff.org"
+  },
+  {
+    "name": "Habitat for Humanity",
+    "website": "https://www.habitat.org",
+    "category": "Homelessness Services & Housing",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Partnering with families to build and improve homes.",
+    "image": "https://logo.clearbit.com/www.habitat.org"
+  },
+  {
+    "name": "ASPCA",
+    "website": "https://www.aspca.org",
+    "category": "Homelessness Services & Housing",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Prevents cruelty to animals and advances welfare.",
+    "image": "https://logo.clearbit.com/www.aspca.org"
+  },
+  {
+    "name": "Special Olympics",
+    "website": "https://www.specialolympics.org",
+    "category": "Homelessness Services & Housing",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Sports for people with intellectual disabilities.",
+    "image": "https://logo.clearbit.com/www.specialolympics.org"
+  },
+  {
+    "name": "American Library Association",
+    "website": "https://www.ala.org",
+    "category": "Homelessness Services & Housing",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Advocates for libraries and information services.",
+    "image": "https://logo.clearbit.com/www.ala.org"
+  },
+  {
+    "name": "NPR",
+    "website": "https://www.npr.org",
+    "category": "Homelessness Services & Housing",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Independent, nonprofit media organization.",
+    "image": "https://logo.clearbit.com/www.npr.org"
+  },
+  {
+    "name": "Ocean Conservancy",
+    "website": "https://oceanconservancy.org",
+    "category": "Homelessness Services & Housing",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Science‑based solutions for a healthy ocean.",
+    "image": "https://logo.clearbit.com/oceanconservancy.org"
+  },
+  {
+    "name": "The Salvation Army",
+    "website": "https://www.salvationarmyusa.org",
+    "category": "Homelessness Services & Housing",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Social services, shelters, rehab programs.",
+    "image": "https://logo.clearbit.com/www.salvationarmyusa.org"
+  },
+  {
+    "name": "American Red Cross",
+    "website": "https://www.redcross.org",
+    "category": "Homelessness Services & Housing",
+    "location": "USA/Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Disaster relief, blood services, preparedness.",
+    "image": "https://logo.clearbit.com/www.redcross.org"
+  },
+  {
+    "name": "Playworks",
+    "website": "https://www.playworks.org",
+    "category": "Homelessness Services & Housing",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Recess and play to transform schools.",
+    "image": "https://logo.clearbit.com/www.playworks.org"
+  },
+  {
+    "name": "Code.org",
+    "website": "https://code.org",
+    "category": "Homelessness Services & Housing",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Expanding access to computer science in schools.",
+    "image": "https://logo.clearbit.com/code.org"
+  },
+  {
+    "name": "Feeding Tampa Bay",
+    "website": "https://www.feedingtampabay.org",
+    "category": "Homelessness Services & Housing",
+    "location": "USA/FL",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Regional food bank serving West Central Florida.",
+    "image": "https://logo.clearbit.com/www.feedingtampabay.org"
+  },
+  {
+    "name": "World Animal Protection",
+    "website": "https://www.worldanimalprotection.us",
+    "category": "Homelessness Services & Housing",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Moves the world to protect animals.",
+    "image": "https://logo.clearbit.com/www.worldanimalprotection.us"
+  },
+  {
+    "name": "The Trevor Project",
+    "website": "https://www.thetrevorproject.org",
+    "category": "Homelessness Services & Housing",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Crisis support & suicide prevention for LGBTQ+ youth.",
+    "image": "https://logo.clearbit.com/www.thetrevorproject.org"
+  },
+  {
+    "name": "Heifer International",
+    "website": "https://www.heifer.org",
+    "category": "Homelessness Services & Housing",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Sustainable agriculture to end hunger and poverty.",
+    "image": "https://logo.clearbit.com/www.heifer.org"
+  },
+  {
+    "name": "American Cancer Society",
+    "website": "https://www.cancer.org",
+    "category": "Homelessness Services & Housing",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Cancer research, education, and patient support.",
+    "image": "https://logo.clearbit.com/www.cancer.org"
+  },
+  {
+    "name": "International Rescue Committee",
+    "website": "https://www.rescue.org",
+    "category": "Homelessness Services & Housing",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Aids people affected by conflict and disaster.",
+    "image": "https://logo.clearbit.com/www.rescue.org"
+  },
+  {
+    "name": "Doctors Without Borders (MSF)",
+    "website": "https://www.doctorswithoutborders.org",
+    "category": "Homelessness Services & Housing",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Medical humanitarian assistance in crises.",
+    "image": "https://logo.clearbit.com/www.doctorswithoutborders.org"
+  },
+  {
+    "name": "Best Friends Animal Society",
+    "website": "https://bestfriends.org",
+    "category": "Homelessness Services & Housing",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Leading the no‑kill movement for pets.",
+    "image": "https://logo.clearbit.com/bestfriends.org"
+  },
+  {
+    "name": "The Nature Conservancy",
+    "website": "https://www.nature.org",
+    "category": "Homelessness Services & Housing",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Conserving lands and waters for people and nature.",
+    "image": "https://logo.clearbit.com/www.nature.org"
+  },
+  {
+    "name": "Wikimedia Foundation",
+    "website": "https://wikimediafoundation.org",
+    "category": "Homelessness Services & Housing",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Free knowledge projects like Wikipedia.",
+    "image": "https://logo.clearbit.com/wikimediafoundation.org"
+  },
+  {
+    "name": "GiveDirectly",
+    "website": "https://www.givedirectly.org",
+    "category": "Human Services & Poverty Alleviation",
+    "location": "Global",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Direct cash transfers to people in poverty.",
+    "image": "https://logo.clearbit.com/www.givedirectly.org"
+  },
+  {
+    "name": "Meals on Wheels America",
+    "website": "https://www.mealsonwheelsamerica.org",
+    "category": "Human Services & Poverty Alleviation",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Delivers meals to seniors.",
+    "image": "https://logo.clearbit.com/www.mealsonwheelsamerica.org"
+  },
+  {
+    "name": "AARP Foundation",
+    "website": "https://www.aarpfoundation.org",
+    "category": "Human Services & Poverty Alleviation",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Works to end senior poverty.",
+    "image": "https://logo.clearbit.com/www.aarpfoundation.org"
+  },
+  {
+    "name": "Habitat for Humanity",
+    "website": "https://www.habitat.org",
+    "category": "Human Services & Poverty Alleviation",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Partnering with families to build and improve homes.",
+    "image": "https://logo.clearbit.com/www.habitat.org"
+  },
+  {
+    "name": "Autism Speaks",
+    "website": "https://www.autismspeaks.org",
+    "category": "Human Services & Poverty Alleviation",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Autism advocacy, services, and research.",
+    "image": "https://logo.clearbit.com/www.autismspeaks.org"
+  },
+  {
+    "name": "Conservation International",
+    "website": "https://www.conservation.org",
+    "category": "Human Services & Poverty Alleviation",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Protecting nature for people and planet.",
+    "image": "https://logo.clearbit.com/www.conservation.org"
+  },
+  {
+    "name": "Human Rights Watch",
+    "website": "https://www.hrw.org",
+    "category": "Human Services & Poverty Alleviation",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Investigations and advocacy for human rights.",
+    "image": "https://logo.clearbit.com/www.hrw.org"
+  },
+  {
+    "name": "Sierra Club Foundation",
+    "website": "https://www.sierraclubfoundation.org",
+    "category": "Human Services & Poverty Alleviation",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Supports grassroots environmental advocacy.",
+    "image": "https://logo.clearbit.com/www.sierraclubfoundation.org"
+  },
+  {
+    "name": "Feeding America",
+    "website": "https://www.feedingamerica.org",
+    "category": "Human Services & Poverty Alleviation",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Nationwide network of food banks tackling hunger.",
+    "image": "https://logo.clearbit.com/www.feedingamerica.org"
+  },
+  {
+    "name": "Futures Without Violence",
+    "website": "https://www.futureswithoutviolence.org",
+    "category": "Human Services & Poverty Alleviation",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Ending violence against women & children.",
+    "image": "https://logo.clearbit.com/www.futureswithoutviolence.org"
+  },
+  {
+    "name": "YMCA",
+    "website": "https://www.ymca.org",
+    "category": "Human Services & Poverty Alleviation",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Youth programs and community recreation.",
+    "image": "https://logo.clearbit.com/www.ymca.org"
+  },
+  {
+    "name": "World Wildlife Fund",
+    "website": "https://www.worldwildlife.org",
+    "category": "Human Services & Poverty Alleviation",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Protecting wildlife and wild places.",
+    "image": "https://logo.clearbit.com/www.worldwildlife.org"
+  },
+  {
+    "name": "International Orthodox Christian Charities",
+    "website": "https://iocc.org",
+    "category": "Human Services & Poverty Alleviation",
+    "location": "Global",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Humanitarian relief and development programs.",
+    "image": "https://logo.clearbit.com/iocc.org"
+  },
+  {
+    "name": "Goodwill Industries International",
+    "website": "https://www.goodwill.org",
+    "category": "Human Services & Poverty Alleviation",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Job training and employment services.",
+    "image": "https://logo.clearbit.com/www.goodwill.org"
+  },
+  {
+    "name": "NAMI",
+    "website": "https://www.nami.org",
+    "category": "Human Services & Poverty Alleviation",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "National Alliance on Mental Illness—support & advocacy.",
+    "image": "https://logo.clearbit.com/www.nami.org"
+  },
+  {
+    "name": "Brennan Center for Justice",
+    "website": "https://www.brennancenter.org",
+    "category": "Human Services & Poverty Alleviation",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Law & policy institute—democracy & justice.",
+    "image": "https://logo.clearbit.com/www.brennancenter.org"
+  },
+  {
+    "name": "RAINN",
+    "website": "https://www.rainn.org",
+    "category": "Human Services & Poverty Alleviation",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Rape, Abuse & Incest National Network—support line.",
+    "image": "https://logo.clearbit.com/www.rainn.org"
+  },
+  {
+    "name": "World Central Kitchen",
+    "website": "https://wck.org",
+    "category": "Human Services & Poverty Alleviation",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Meals in response to humanitarian crises.",
+    "image": "https://logo.clearbit.com/wck.org"
+  },
+  {
+    "name": "Playworks",
+    "website": "https://www.playworks.org",
+    "category": "Human Services & Poverty Alleviation",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Recess and play to transform schools.",
+    "image": "https://logo.clearbit.com/www.playworks.org"
+  },
+  {
+    "name": "ACLU",
+    "website": "https://www.aclu.org",
+    "category": "Human Services & Poverty Alleviation",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Defends civil liberties and civil rights.",
+    "image": "https://logo.clearbit.com/www.aclu.org"
+  },
+  {
+    "name": "World Food Programme USA",
+    "website": "https://www.wfpusa.org",
+    "category": "International Aid & Development",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Supports the UN World Food Programme’s hunger relief.",
+    "image": "https://logo.clearbit.com/www.wfpusa.org"
+  },
+  {
+    "name": "Action Against Hunger",
+    "website": "https://www.actionagainsthunger.org",
+    "category": "International Aid & Development",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Preventing and treating life‑threatening hunger.",
+    "image": "https://logo.clearbit.com/www.actionagainsthunger.org"
+  },
+  {
+    "name": "CARE",
+    "website": "https://www.care.org",
+    "category": "International Aid & Development",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Fights global poverty and provides emergency relief.",
+    "image": "https://logo.clearbit.com/www.care.org"
+  },
+  {
+    "name": "Heifer International",
+    "website": "https://www.heifer.org",
+    "category": "International Aid & Development",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Sustainable agriculture to end hunger and poverty.",
+    "image": "https://logo.clearbit.com/www.heifer.org"
+  },
+  {
+    "name": "Oxfam America",
+    "website": "https://www.oxfamamerica.org",
+    "category": "International Aid & Development",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Working to end the injustice of poverty.",
+    "image": "https://logo.clearbit.com/www.oxfamamerica.org"
+  },
+  {
+    "name": "International Rescue Committee",
+    "website": "https://www.rescue.org",
+    "category": "International Aid & Development",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Aids people affected by conflict and disaster.",
+    "image": "https://logo.clearbit.com/www.rescue.org"
+  },
+  {
+    "name": "Mercy Corps",
+    "website": "https://www.mercycorps.org",
+    "category": "International Aid & Development",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Helps people build secure, productive communities.",
+    "image": "https://logo.clearbit.com/www.mercycorps.org"
+  },
+  {
+    "name": "Direct Relief",
+    "website": "https://www.directrelief.org",
+    "category": "International Aid & Development",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Medical aid to improve health after disasters.",
+    "image": "https://logo.clearbit.com/www.directrelief.org"
+  },
+  {
+    "name": "City Harvest",
+    "website": "https://www.cityharvest.org",
+    "category": "International Aid & Development",
+    "location": "USA/NY",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Rescues food to feed New Yorkers in need.",
+    "image": "https://logo.clearbit.com/www.cityharvest.org"
+  },
+  {
+    "name": "Humane Society of the United States",
+    "website": "https://www.humanesociety.org",
+    "category": "International Aid & Development",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Ending suffering for all animals.",
+    "image": "https://logo.clearbit.com/www.humanesociety.org"
+  },
+  {
+    "name": "Environmental Defense Fund",
+    "website": "https://www.edf.org",
+    "category": "International Aid & Development",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Tackling critical environmental problems.",
+    "image": "https://logo.clearbit.com/www.edf.org"
+  },
+  {
+    "name": "NAMI",
+    "website": "https://www.nami.org",
+    "category": "International Aid & Development",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "National Alliance on Mental Illness—support & advocacy.",
+    "image": "https://logo.clearbit.com/www.nami.org"
+  },
+  {
+    "name": "The Trevor Project",
+    "website": "https://www.thetrevorproject.org",
+    "category": "International Aid & Development",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Crisis support & suicide prevention for LGBTQ+ youth.",
+    "image": "https://logo.clearbit.com/www.thetrevorproject.org"
+  },
+  {
+    "name": "American Library Association",
+    "website": "https://www.ala.org",
+    "category": "International Aid & Development",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Advocates for libraries and information services.",
+    "image": "https://logo.clearbit.com/www.ala.org"
+  },
+  {
+    "name": "Habitat for Humanity",
+    "website": "https://www.habitat.org",
+    "category": "International Aid & Development",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Partnering with families to build and improve homes.",
+    "image": "https://logo.clearbit.com/www.habitat.org"
+  },
+  {
+    "name": "DonorsChoose",
+    "website": "https://www.donorschoose.org",
+    "category": "International Aid & Development",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Funds classroom projects for public school teachers.",
+    "image": "https://logo.clearbit.com/www.donorschoose.org"
+  },
+  {
+    "name": "Catholic Relief Services",
+    "website": "https://www.crs.org",
+    "category": "International Aid & Development",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Faith‑based international relief & development.",
+    "image": "https://logo.clearbit.com/www.crs.org"
+  },
+  {
+    "name": "The Trevor Project",
+    "website": "https://www.thetrevorproject.org",
+    "category": "LGBTQ+ Support & Advocacy",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Crisis support & suicide prevention for LGBTQ+ youth.",
+    "image": "https://logo.clearbit.com/www.thetrevorproject.org"
+  },
+  {
+    "name": "Oxfam America",
+    "website": "https://www.oxfamamerica.org",
+    "category": "LGBTQ+ Support & Advocacy",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Working to end the injustice of poverty.",
+    "image": "https://logo.clearbit.com/www.oxfamamerica.org"
+  },
+  {
+    "name": "Planned Parenthood",
+    "website": "https://www.plannedparenthood.org",
+    "category": "LGBTQ+ Support & Advocacy",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Sexual and reproductive health care & education.",
+    "image": "https://logo.clearbit.com/www.plannedparenthood.org"
+  },
+  {
+    "name": "World Central Kitchen",
+    "website": "https://wck.org",
+    "category": "LGBTQ+ Support & Advocacy",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Meals in response to humanitarian crises.",
+    "image": "https://logo.clearbit.com/wck.org"
+  },
+  {
+    "name": "Fisher House Foundation",
+    "website": "https://fisherhouse.org",
+    "category": "LGBTQ+ Support & Advocacy",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Comfort homes for military & veteran families.",
+    "image": "https://logo.clearbit.com/fisherhouse.org"
+  },
+  {
+    "name": "DonorsChoose",
+    "website": "https://www.donorschoose.org",
+    "category": "LGBTQ+ Support & Advocacy",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Funds classroom projects for public school teachers.",
+    "image": "https://logo.clearbit.com/www.donorschoose.org"
+  },
+  {
+    "name": "ShelterBox USA",
+    "website": "https://www.shelterboxusa.org",
+    "category": "LGBTQ+ Support & Advocacy",
+    "location": "Global",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Emergency shelter & tools for families.",
+    "image": "https://logo.clearbit.com/www.shelterboxusa.org"
+  },
+  {
+    "name": "Wounded Warrior Project",
+    "website": "https://www.woundedwarriorproject.org",
+    "category": "LGBTQ+ Support & Advocacy",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Programs and services for wounded veterans.",
+    "image": "https://logo.clearbit.com/www.woundedwarriorproject.org"
+  },
+  {
+    "name": "Action Against Hunger",
+    "website": "https://www.actionagainsthunger.org",
+    "category": "LGBTQ+ Support & Advocacy",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Preventing and treating life‑threatening hunger.",
+    "image": "https://logo.clearbit.com/www.actionagainsthunger.org"
+  },
+  {
+    "name": "St. Jude Children’s Research Hospital",
+    "website": "https://www.stjude.org",
+    "category": "LGBTQ+ Support & Advocacy",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Pediatric treatment & research—families never billed.",
+    "image": "https://logo.clearbit.com/www.stjude.org"
+  },
+  {
+    "name": "Direct Relief",
+    "website": "https://www.directrelief.org",
+    "category": "LGBTQ+ Support & Advocacy",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Medical aid to improve health after disasters.",
+    "image": "https://logo.clearbit.com/www.directrelief.org"
+  },
+  {
+    "name": "Electronic Frontier Foundation",
+    "website": "https://www.eff.org",
+    "category": "LGBTQ+ Support & Advocacy",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Defending civil liberties in the digital world.",
+    "image": "https://logo.clearbit.com/www.eff.org"
+  },
+  {
+    "name": "PBS",
+    "website": "https://www.pbs.org",
+    "category": "LGBTQ+ Support & Advocacy",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Public media and education.",
+    "image": "https://logo.clearbit.com/www.pbs.org"
+  },
+  {
+    "name": "NAMI",
+    "website": "https://www.nami.org",
+    "category": "LGBTQ+ Support & Advocacy",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "National Alliance on Mental Illness—support & advocacy.",
+    "image": "https://logo.clearbit.com/www.nami.org"
+  },
+  {
+    "name": "ASPCA",
+    "website": "https://www.aspca.org",
+    "category": "LGBTQ+ Support & Advocacy",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Prevents cruelty to animals and advances welfare.",
+    "image": "https://logo.clearbit.com/www.aspca.org"
+  },
+  {
+    "name": "Autism Speaks",
+    "website": "https://www.autismspeaks.org",
+    "category": "LGBTQ+ Support & Advocacy",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Autism advocacy, services, and research.",
+    "image": "https://logo.clearbit.com/www.autismspeaks.org"
+  },
+  {
+    "name": "Best Friends Animal Society",
+    "website": "https://bestfriends.org",
+    "category": "LGBTQ+ Support & Advocacy",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Leading the no‑kill movement for pets.",
+    "image": "https://logo.clearbit.com/bestfriends.org"
+  },
+  {
+    "name": "Southern Poverty Law Center",
+    "website": "https://www.splcenter.org",
+    "category": "LGBTQ+ Support & Advocacy",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Fighting hate and bigotry.",
+    "image": "https://logo.clearbit.com/www.splcenter.org"
+  },
+  {
+    "name": "Human Rights Watch",
+    "website": "https://www.hrw.org",
+    "category": "LGBTQ+ Support & Advocacy",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Investigations and advocacy for human rights.",
+    "image": "https://logo.clearbit.com/www.hrw.org"
+  },
+  {
+    "name": "Partners In Health",
+    "website": "https://www.pih.org",
+    "category": "LGBTQ+ Support & Advocacy",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Brings quality health care to poor regions.",
+    "image": "https://logo.clearbit.com/www.pih.org"
+  },
+  {
+    "name": "Autism Speaks",
+    "website": "https://www.autismspeaks.org",
+    "category": "Mental Health & Counseling",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Autism advocacy, services, and research.",
+    "image": "https://logo.clearbit.com/www.autismspeaks.org"
+  },
+  {
+    "name": "NAMI",
+    "website": "https://www.nami.org",
+    "category": "Mental Health & Counseling",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "National Alliance on Mental Illness—support & advocacy.",
+    "image": "https://logo.clearbit.com/www.nami.org"
+  },
+  {
+    "name": "World Central Kitchen",
+    "website": "https://wck.org",
+    "category": "Mental Health & Counseling",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Meals in response to humanitarian crises.",
+    "image": "https://logo.clearbit.com/wck.org"
+  },
+  {
+    "name": "DonorsChoose",
+    "website": "https://www.donorschoose.org",
+    "category": "Mental Health & Counseling",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Funds classroom projects for public school teachers.",
+    "image": "https://logo.clearbit.com/www.donorschoose.org"
+  },
+  {
+    "name": "Futures Without Violence",
+    "website": "https://www.futureswithoutviolence.org",
+    "category": "Mental Health & Counseling",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Ending violence against women & children.",
+    "image": "https://logo.clearbit.com/www.futureswithoutviolence.org"
+  },
+  {
+    "name": "Scholarship America",
+    "website": "https://scholarshipamerica.org",
+    "category": "Mental Health & Counseling",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Scholarship programs and guidance.",
+    "image": "https://logo.clearbit.com/scholarshipamerica.org"
+  },
+  {
+    "name": "The Salvation Army",
+    "website": "https://www.salvationarmyusa.org",
+    "category": "Mental Health & Counseling",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Social services, shelters, rehab programs.",
+    "image": "https://logo.clearbit.com/www.salvationarmyusa.org"
+  },
+  {
+    "name": "PBS",
+    "website": "https://www.pbs.org",
+    "category": "Mental Health & Counseling",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Public media and education.",
+    "image": "https://logo.clearbit.com/www.pbs.org"
+  },
+  {
+    "name": "Teach For America",
+    "website": "https://www.teachforamerica.org",
+    "category": "Mental Health & Counseling",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Leaders expanding educational opportunity.",
+    "image": "https://logo.clearbit.com/www.teachforamerica.org"
+  },
+  {
+    "name": "AARP Foundation",
+    "website": "https://www.aarpfoundation.org",
+    "category": "Mental Health & Counseling",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Works to end senior poverty.",
+    "image": "https://logo.clearbit.com/www.aarpfoundation.org"
+  },
+  {
+    "name": "RAINN",
+    "website": "https://www.rainn.org",
+    "category": "Mental Health & Counseling",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Rape, Abuse & Incest National Network—support line.",
+    "image": "https://logo.clearbit.com/www.rainn.org"
+  },
+  {
+    "name": "Environmental Defense Fund",
+    "website": "https://www.edf.org",
+    "category": "Mental Health & Counseling",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Tackling critical environmental problems.",
+    "image": "https://logo.clearbit.com/www.edf.org"
+  },
+  {
+    "name": "Fisher House Foundation",
+    "website": "https://fisherhouse.org",
+    "category": "Mental Health & Counseling",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Comfort homes for military & veteran families.",
+    "image": "https://logo.clearbit.com/fisherhouse.org"
+  },
+  {
+    "name": "Best Friends Animal Society",
+    "website": "https://bestfriends.org",
+    "category": "Mental Health & Counseling",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Leading the no‑kill movement for pets.",
+    "image": "https://logo.clearbit.com/bestfriends.org"
+  },
+  {
+    "name": "World Animal Protection",
+    "website": "https://www.worldanimalprotection.us",
+    "category": "Mental Health & Counseling",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Moves the world to protect animals.",
+    "image": "https://logo.clearbit.com/www.worldanimalprotection.us"
+  },
+  {
+    "name": "Heifer International",
+    "website": "https://www.heifer.org",
+    "category": "Mental Health & Counseling",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Sustainable agriculture to end hunger and poverty.",
+    "image": "https://logo.clearbit.com/www.heifer.org"
+  },
+  {
+    "name": "CARE",
+    "website": "https://www.care.org",
+    "category": "Mental Health & Counseling",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Fights global poverty and provides emergency relief.",
+    "image": "https://logo.clearbit.com/www.care.org"
+  },
+  {
+    "name": "Public Counsel",
+    "website": "https://publiccounsel.org",
+    "category": "Mental Health & Counseling",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Largest pro bono law firm—justice & opportunity.",
+    "image": "https://logo.clearbit.com/publiccounsel.org"
+  },
+  {
+    "name": "Conservation International",
+    "website": "https://www.conservation.org",
+    "category": "Mental Health & Counseling",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Protecting nature for people and planet.",
+    "image": "https://logo.clearbit.com/www.conservation.org"
+  },
+  {
+    "name": "Human Rights Watch",
+    "website": "https://www.hrw.org",
+    "category": "Mental Health & Counseling",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Investigations and advocacy for human rights.",
+    "image": "https://logo.clearbit.com/www.hrw.org"
+  },
+  {
+    "name": "Wounded Warrior Project",
+    "website": "https://www.woundedwarriorproject.org",
+    "category": "Military & Veterans Support",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Programs and services for wounded veterans.",
+    "image": "https://logo.clearbit.com/www.woundedwarriorproject.org"
+  },
+  {
+    "name": "Fisher House Foundation",
+    "website": "https://fisherhouse.org",
+    "category": "Military & Veterans Support",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Comfort homes for military & veteran families.",
+    "image": "https://logo.clearbit.com/fisherhouse.org"
+  },
+  {
+    "name": "Travis Manion Foundation",
+    "website": "https://www.travismanion.org",
+    "category": "Military & Veterans Support",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Empowering veterans & families of the fallen.",
+    "image": "https://logo.clearbit.com/www.travismanion.org"
+  },
+  {
+    "name": "International Orthodox Christian Charities",
+    "website": "https://iocc.org",
+    "category": "Military & Veterans Support",
+    "location": "Global",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Humanitarian relief and development programs.",
+    "image": "https://logo.clearbit.com/iocc.org"
+  },
+  {
+    "name": "YMCA",
+    "website": "https://www.ymca.org",
+    "category": "Military & Veterans Support",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Youth programs and community recreation.",
+    "image": "https://logo.clearbit.com/www.ymca.org"
+  },
+  {
+    "name": "Environmental Defense Fund",
+    "website": "https://www.edf.org",
+    "category": "Military & Veterans Support",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Tackling critical environmental problems.",
+    "image": "https://logo.clearbit.com/www.edf.org"
+  },
+  {
+    "name": "The Nature Conservancy",
+    "website": "https://www.nature.org",
+    "category": "Military & Veterans Support",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Conserving lands and waters for people and nature.",
+    "image": "https://logo.clearbit.com/www.nature.org"
+  },
+  {
+    "name": "Teach For America",
+    "website": "https://www.teachforamerica.org",
+    "category": "Military & Veterans Support",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Leaders expanding educational opportunity.",
+    "image": "https://logo.clearbit.com/www.teachforamerica.org"
+  },
+  {
+    "name": "CARE",
+    "website": "https://www.care.org",
+    "category": "Military & Veterans Support",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Fights global poverty and provides emergency relief.",
+    "image": "https://logo.clearbit.com/www.care.org"
+  },
+  {
+    "name": "NAMI",
+    "website": "https://www.nami.org",
+    "category": "Military & Veterans Support",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "National Alliance on Mental Illness—support & advocacy.",
+    "image": "https://logo.clearbit.com/www.nami.org"
+  },
+  {
+    "name": "ASPCA",
+    "website": "https://www.aspca.org",
+    "category": "Military & Veterans Support",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Prevents cruelty to animals and advances welfare.",
+    "image": "https://logo.clearbit.com/www.aspca.org"
+  },
+  {
+    "name": "Public Counsel",
+    "website": "https://publiccounsel.org",
+    "category": "Military & Veterans Support",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Largest pro bono law firm—justice & opportunity.",
+    "image": "https://logo.clearbit.com/publiccounsel.org"
+  },
+  {
+    "name": "Best Friends Animal Society",
+    "website": "https://bestfriends.org",
+    "category": "Military & Veterans Support",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Leading the no‑kill movement for pets.",
+    "image": "https://logo.clearbit.com/bestfriends.org"
+  },
+  {
+    "name": "NPR",
+    "website": "https://www.npr.org",
+    "category": "Military & Veterans Support",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Independent, nonprofit media organization.",
+    "image": "https://logo.clearbit.com/www.npr.org"
+  },
+  {
+    "name": "Ocean Conservancy",
+    "website": "https://oceanconservancy.org",
+    "category": "Military & Veterans Support",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Science‑based solutions for a healthy ocean.",
+    "image": "https://logo.clearbit.com/oceanconservancy.org"
+  },
+  {
+    "name": "Southern Poverty Law Center",
+    "website": "https://www.splcenter.org",
+    "category": "Military & Veterans Support",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Fighting hate and bigotry.",
+    "image": "https://logo.clearbit.com/www.splcenter.org"
+  },
+  {
+    "name": "United Way",
+    "website": "https://www.unitedway.org",
+    "category": "Military & Veterans Support",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Community‑based programs and initiatives.",
+    "image": "https://logo.clearbit.com/www.unitedway.org"
+  },
+  {
+    "name": "Amnesty International USA",
+    "website": "https://www.amnestyusa.org",
+    "category": "Military & Veterans Support",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Global movement for human rights.",
+    "image": "https://logo.clearbit.com/www.amnestyusa.org"
+  },
+  {
+    "name": "Alzheimer’s Association",
+    "website": "https://www.alz.org",
+    "category": "Military & Veterans Support",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Accelerating research and early detection.",
+    "image": "https://logo.clearbit.com/www.alz.org"
+  },
+  {
+    "name": "Electronic Frontier Foundation",
+    "website": "https://www.eff.org",
+    "category": "Public Policy, Law & Advocacy",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Defending civil liberties in the digital world.",
+    "image": "https://logo.clearbit.com/www.eff.org"
+  },
+  {
+    "name": "Public Counsel",
+    "website": "https://publiccounsel.org",
+    "category": "Public Policy, Law & Advocacy",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Largest pro bono law firm—justice & opportunity.",
+    "image": "https://logo.clearbit.com/publiccounsel.org"
+  },
+  {
+    "name": "Brennan Center for Justice",
+    "website": "https://www.brennancenter.org",
+    "category": "Public Policy, Law & Advocacy",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Law & policy institute—democracy & justice.",
+    "image": "https://logo.clearbit.com/www.brennancenter.org"
+  },
+  {
+    "name": "Travis Manion Foundation",
+    "website": "https://www.travismanion.org",
+    "category": "Public Policy, Law & Advocacy",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Empowering veterans & families of the fallen.",
+    "image": "https://logo.clearbit.com/www.travismanion.org"
+  },
+  {
+    "name": "Islamic Relief USA",
+    "website": "https://irusa.org",
+    "category": "Public Policy, Law & Advocacy",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Humanitarian aid & development.",
+    "image": "https://logo.clearbit.com/irusa.org"
+  },
+  {
+    "name": "NAMI",
+    "website": "https://www.nami.org",
+    "category": "Public Policy, Law & Advocacy",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "National Alliance on Mental Illness—support & advocacy.",
+    "image": "https://logo.clearbit.com/www.nami.org"
+  },
+  {
+    "name": "Autism Speaks",
+    "website": "https://www.autismspeaks.org",
+    "category": "Public Policy, Law & Advocacy",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Autism advocacy, services, and research.",
+    "image": "https://logo.clearbit.com/www.autismspeaks.org"
+  },
+  {
+    "name": "PBS",
+    "website": "https://www.pbs.org",
+    "category": "Public Policy, Law & Advocacy",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Public media and education.",
+    "image": "https://logo.clearbit.com/www.pbs.org"
+  },
+  {
+    "name": "Boys & Girls Clubs of America",
+    "website": "https://www.bgca.org",
+    "category": "Public Policy, Law & Advocacy",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "After‑school programs and mentoring.",
+    "image": "https://logo.clearbit.com/www.bgca.org"
+  },
+  {
+    "name": "Heifer International",
+    "website": "https://www.heifer.org",
+    "category": "Public Policy, Law & Advocacy",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Sustainable agriculture to end hunger and poverty.",
+    "image": "https://logo.clearbit.com/www.heifer.org"
+  },
+  {
+    "name": "Mercy Corps",
+    "website": "https://www.mercycorps.org",
+    "category": "Public Policy, Law & Advocacy",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Helps people build secure, productive communities.",
+    "image": "https://logo.clearbit.com/www.mercycorps.org"
+  },
+  {
+    "name": "United Way",
+    "website": "https://www.unitedway.org",
+    "category": "Public Policy, Law & Advocacy",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Community‑based programs and initiatives.",
+    "image": "https://logo.clearbit.com/www.unitedway.org"
+  },
+  {
+    "name": "Teach For America",
+    "website": "https://www.teachforamerica.org",
+    "category": "Public Policy, Law & Advocacy",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Leaders expanding educational opportunity.",
+    "image": "https://logo.clearbit.com/www.teachforamerica.org"
+  },
+  {
+    "name": "DonorsChoose",
+    "website": "https://www.donorschoose.org",
+    "category": "Public Policy, Law & Advocacy",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Funds classroom projects for public school teachers.",
+    "image": "https://logo.clearbit.com/www.donorschoose.org"
+  },
+  {
+    "name": "World Central Kitchen",
+    "website": "https://wck.org",
+    "category": "Public Policy, Law & Advocacy",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Meals in response to humanitarian crises.",
+    "image": "https://logo.clearbit.com/wck.org"
+  },
+  {
+    "name": "Big Brothers Big Sisters of America",
+    "website": "https://www.bbbs.org",
+    "category": "Public Policy, Law & Advocacy",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "One‑to‑one youth mentoring.",
+    "image": "https://logo.clearbit.com/www.bbbs.org"
+  },
+  {
+    "name": "Action Against Hunger",
+    "website": "https://www.actionagainsthunger.org",
+    "category": "Public Policy, Law & Advocacy",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Preventing and treating life‑threatening hunger.",
+    "image": "https://logo.clearbit.com/www.actionagainsthunger.org"
+  },
+  {
+    "name": "Playworks",
+    "website": "https://www.playworks.org",
+    "category": "Public Policy, Law & Advocacy",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Recess and play to transform schools.",
+    "image": "https://logo.clearbit.com/www.playworks.org"
+  },
+  {
+    "name": "Catholic Relief Services",
+    "website": "https://www.crs.org",
+    "category": "Public Policy, Law & Advocacy",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Faith‑based international relief & development.",
+    "image": "https://logo.clearbit.com/www.crs.org"
+  },
+  {
+    "name": "Wikimedia Foundation",
+    "website": "https://wikimediafoundation.org",
+    "category": "Science & Technology Initiatives",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Free knowledge projects like Wikipedia.",
+    "image": "https://logo.clearbit.com/wikimediafoundation.org"
+  },
+  {
+    "name": "Mozilla Foundation",
+    "website": "https://www.mozilla.org",
+    "category": "Science & Technology Initiatives",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Internet health, privacy, open‑source initiatives.",
+    "image": "https://logo.clearbit.com/www.mozilla.org"
+  },
+  {
+    "name": "Code.org",
+    "website": "https://code.org",
+    "category": "Science & Technology Initiatives",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Expanding access to computer science in schools.",
+    "image": "https://logo.clearbit.com/code.org"
+  },
+  {
+    "name": "Feeding America",
+    "website": "https://www.feedingamerica.org",
+    "category": "Science & Technology Initiatives",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Nationwide network of food banks tackling hunger.",
+    "image": "https://logo.clearbit.com/www.feedingamerica.org"
+  },
+  {
+    "name": "Special Olympics",
+    "website": "https://www.specialolympics.org",
+    "category": "Science & Technology Initiatives",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Sports for people with intellectual disabilities.",
+    "image": "https://logo.clearbit.com/www.specialolympics.org"
+  },
+  {
+    "name": "World Wildlife Fund",
+    "website": "https://www.worldwildlife.org",
+    "category": "Science & Technology Initiatives",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Protecting wildlife and wild places.",
+    "image": "https://logo.clearbit.com/www.worldwildlife.org"
+  },
+  {
+    "name": "Boys & Girls Clubs of America",
+    "website": "https://www.bgca.org",
+    "category": "Science & Technology Initiatives",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "After‑school programs and mentoring.",
+    "image": "https://logo.clearbit.com/www.bgca.org"
+  },
+  {
+    "name": "Planned Parenthood",
+    "website": "https://www.plannedparenthood.org",
+    "category": "Science & Technology Initiatives",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Sexual and reproductive health care & education.",
+    "image": "https://logo.clearbit.com/www.plannedparenthood.org"
+  },
+  {
+    "name": "Public Counsel",
+    "website": "https://publiccounsel.org",
+    "category": "Science & Technology Initiatives",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Largest pro bono law firm—justice & opportunity.",
+    "image": "https://logo.clearbit.com/publiccounsel.org"
+  },
+  {
+    "name": "ACLU",
+    "website": "https://www.aclu.org",
+    "category": "Science & Technology Initiatives",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Defends civil liberties and civil rights.",
+    "image": "https://logo.clearbit.com/www.aclu.org"
+  },
+  {
+    "name": "Feeding Tampa Bay",
+    "website": "https://www.feedingtampabay.org",
+    "category": "Science & Technology Initiatives",
+    "location": "USA/FL",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Regional food bank serving West Central Florida.",
+    "image": "https://logo.clearbit.com/www.feedingtampabay.org"
+  },
+  {
+    "name": "DonorsChoose",
+    "website": "https://www.donorschoose.org",
+    "category": "Science & Technology Initiatives",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Funds classroom projects for public school teachers.",
+    "image": "https://logo.clearbit.com/www.donorschoose.org"
+  },
+  {
+    "name": "Partners In Health",
+    "website": "https://www.pih.org",
+    "category": "Science & Technology Initiatives",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Brings quality health care to poor regions.",
+    "image": "https://logo.clearbit.com/www.pih.org"
+  },
+  {
+    "name": "ShelterBox USA",
+    "website": "https://www.shelterboxusa.org",
+    "category": "Science & Technology Initiatives",
+    "location": "Global",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Emergency shelter & tools for families.",
+    "image": "https://logo.clearbit.com/www.shelterboxusa.org"
+  },
+  {
+    "name": "Oxfam America",
+    "website": "https://www.oxfamamerica.org",
+    "category": "Science & Technology Initiatives",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Working to end the injustice of poverty.",
+    "image": "https://logo.clearbit.com/www.oxfamamerica.org"
+  },
+  {
+    "name": "Catholic Relief Services",
+    "website": "https://www.crs.org",
+    "category": "Science & Technology Initiatives",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Faith‑based international relief & development.",
+    "image": "https://logo.clearbit.com/www.crs.org"
+  },
+  {
+    "name": "Autism Speaks",
+    "website": "https://www.autismspeaks.org",
+    "category": "Science & Technology Initiatives",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Autism advocacy, services, and research.",
+    "image": "https://logo.clearbit.com/www.autismspeaks.org"
+  },
+  {
+    "name": "Ocean Conservancy",
+    "website": "https://oceanconservancy.org",
+    "category": "Science & Technology Initiatives",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Science‑based solutions for a healthy ocean.",
+    "image": "https://logo.clearbit.com/oceanconservancy.org"
+  },
+  {
+    "name": "Brennan Center for Justice",
+    "website": "https://www.brennancenter.org",
+    "category": "Science & Technology Initiatives",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Law & policy institute—democracy & justice.",
+    "image": "https://logo.clearbit.com/www.brennancenter.org"
+  },
+  {
+    "name": "Mercy Corps",
+    "website": "https://www.mercycorps.org",
+    "category": "Science & Technology Initiatives",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Helps people build secure, productive communities.",
+    "image": "https://logo.clearbit.com/www.mercycorps.org"
+  },
+  {
+    "name": "Special Olympics",
+    "website": "https://www.specialolympics.org",
+    "category": "Sports & Recreation Nonprofits",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Sports for people with intellectual disabilities.",
+    "image": "https://logo.clearbit.com/www.specialolympics.org"
+  },
+  {
+    "name": "YMCA",
+    "website": "https://www.ymca.org",
+    "category": "Sports & Recreation Nonprofits",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Youth programs and community recreation.",
+    "image": "https://logo.clearbit.com/www.ymca.org"
+  },
+  {
+    "name": "Playworks",
+    "website": "https://www.playworks.org",
+    "category": "Sports & Recreation Nonprofits",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Recess and play to transform schools.",
+    "image": "https://logo.clearbit.com/www.playworks.org"
+  },
+  {
+    "name": "Meals on Wheels America",
+    "website": "https://www.mealsonwheelsamerica.org",
+    "category": "Sports & Recreation Nonprofits",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Delivers meals to seniors.",
+    "image": "https://logo.clearbit.com/www.mealsonwheelsamerica.org"
+  },
+  {
+    "name": "Habitat for Humanity",
+    "website": "https://www.habitat.org",
+    "category": "Sports & Recreation Nonprofits",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Partnering with families to build and improve homes.",
+    "image": "https://logo.clearbit.com/www.habitat.org"
+  },
+  {
+    "name": "Wikimedia Foundation",
+    "website": "https://wikimediafoundation.org",
+    "category": "Sports & Recreation Nonprofits",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Free knowledge projects like Wikipedia.",
+    "image": "https://logo.clearbit.com/wikimediafoundation.org"
+  },
+  {
+    "name": "Public Counsel",
+    "website": "https://publiccounsel.org",
+    "category": "Sports & Recreation Nonprofits",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Largest pro bono law firm—justice & opportunity.",
+    "image": "https://logo.clearbit.com/publiccounsel.org"
+  },
+  {
+    "name": "Islamic Relief USA",
+    "website": "https://irusa.org",
+    "category": "Sports & Recreation Nonprofits",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Humanitarian aid & development.",
+    "image": "https://logo.clearbit.com/irusa.org"
+  },
+  {
+    "name": "The Trevor Project",
+    "website": "https://www.thetrevorproject.org",
+    "category": "Sports & Recreation Nonprofits",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Crisis support & suicide prevention for LGBTQ+ youth.",
+    "image": "https://logo.clearbit.com/www.thetrevorproject.org"
+  },
+  {
+    "name": "United Way",
+    "website": "https://www.unitedway.org",
+    "category": "Sports & Recreation Nonprofits",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Community‑based programs and initiatives.",
+    "image": "https://logo.clearbit.com/www.unitedway.org"
+  },
+  {
+    "name": "AARP Foundation",
+    "website": "https://www.aarpfoundation.org",
+    "category": "Sports & Recreation Nonprofits",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Works to end senior poverty.",
+    "image": "https://logo.clearbit.com/www.aarpfoundation.org"
+  },
+  {
+    "name": "World Central Kitchen",
+    "website": "https://wck.org",
+    "category": "Sports & Recreation Nonprofits",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Meals in response to humanitarian crises.",
+    "image": "https://logo.clearbit.com/wck.org"
+  },
+  {
+    "name": "Feeding Tampa Bay",
+    "website": "https://www.feedingtampabay.org",
+    "category": "Sports & Recreation Nonprofits",
+    "location": "USA/FL",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Regional food bank serving West Central Florida.",
+    "image": "https://logo.clearbit.com/www.feedingtampabay.org"
+  },
+  {
+    "name": "Boys & Girls Clubs of America",
+    "website": "https://www.bgca.org",
+    "category": "Sports & Recreation Nonprofits",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "After‑school programs and mentoring.",
+    "image": "https://logo.clearbit.com/www.bgca.org"
+  },
+  {
+    "name": "Alzheimer’s Association",
+    "website": "https://www.alz.org",
+    "category": "Sports & Recreation Nonprofits",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Accelerating research and early detection.",
+    "image": "https://logo.clearbit.com/www.alz.org"
+  },
+  {
+    "name": "Doctors Without Borders (MSF)",
+    "website": "https://www.doctorswithoutborders.org",
+    "category": "Sports & Recreation Nonprofits",
+    "location": "Global",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Medical humanitarian assistance in crises.",
+    "image": "https://logo.clearbit.com/www.doctorswithoutborders.org"
+  },
+  {
+    "name": "First Nations Development Institute",
+    "website": "https://www.firstnations.org",
+    "category": "Sports & Recreation Nonprofits",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Strengthening Native economies.",
+    "image": "https://logo.clearbit.com/www.firstnations.org"
+  },
+  {
+    "name": "Futures Without Violence",
+    "website": "https://www.futureswithoutviolence.org",
+    "category": "Sports & Recreation Nonprofits",
+    "location": "USA",
+    "size": "Medium",
+    "verified": true,
+    "blurb": "Ending violence against women & children.",
+    "image": "https://logo.clearbit.com/www.futureswithoutviolence.org"
+  },
+  {
+    "name": "PetSmart Charities",
+    "website": "https://petsmartcharities.org",
+    "category": "Sports & Recreation Nonprofits",
+    "location": "USA",
+    "size": "Large",
+    "verified": true,
+    "blurb": "Supports animal welfare through adoption & grants.",
+    "image": "https://logo.clearbit.com/petsmartcharities.org"
+  }
+]

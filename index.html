@@ -84,7 +84,7 @@ h1{margin:0 0 10px;font-size:clamp(2rem,4vw,3rem);line-height:1.1;color:var(--pr
         <div class="section">
           <h3>Popular this week</h3>
           <div class="cards" id="feat"></div>
-          <p class="notice" style="margin-top:8px">Logos via public brand endpoints; placeholders fall back to a neutral icon.</p>
+          <p class="notice" style="margin-top:8px">Logos come from public brand endpoints; placeholders use a neutral badge where needed.</p>
         </div>
       </div>
     </div>
@@ -146,13 +146,16 @@ const REGIONS = ["USA","Canada","UK","EU","Global","Latin America","Africa","Asi
 const SIZES = ["Small","Medium","Large"];
 const WORDS = ["Alliance","Network","Foundation","Institute","Project","Trust","Partners","Coalition","Initiative","Society","Center","Council"];
 const qs=(s,el=document)=>el.querySelector(s), qsa=(s,el=document)=>Array.from(el.querySelectorAll(s));
-function rand(){ // deterministic RNG
-  let x = rand._x = (rand._x ?? RNG_SEED) ^ 0x6a09e667;
-  x ^= x << 13; x ^= x >> 17; x ^= x << 5; rand._x = x|0; return (x>>>0)/4294967295;
-}
+function rand(){ let x = rand._x = (rand._x ?? RNG_SEED) ^ 0x6a09e667; x ^= x << 13; x ^= x >> 17; x ^= x << 5; rand._x = x|0; return (x>>>0)/4294967295; }
 function slug(s){return (s||"").toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/(^-|-$)/g,"");}
 function logo(domain){return `https://logo.clearbit.com/${domain}`;}
-function fallback(img){ img.onerror=()=>{ img.src='data:image/svg+xml;utf8,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 64 64%22><rect width=%2264%22 height=%2264%22 rx=%2212%22 fill=%22%231E4D8B%22/></svg>'; }; img.loading='lazy'; img.decoding='async';}
+// Neutral inline SVG image (always present) so EVERY item has a picture
+const NEUTRAL_IMG = 'data:image/svg+xml;utf8,'
+  + encodeURIComponent('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">'
+    + '<rect width="64" height="64" rx="12" fill="#1E4D8B"/>'
+    + '<circle cx="28" cy="28" r="12" fill="#fff"/>'
+    + '<rect x="36" y="36" width="16" height="8" rx="4" fill="#153E75"/></svg>');
+function fallback(img){ img.onerror=()=>{ img.src=NEUTRAL_IMG; }; img.loading='lazy'; img.decoding='async';}
 function ratingExplanation(name, cat, score){
   const tiers = score>=9? "recognized for exemplary performance" :
                 score>=7.5? "recognized for strong performance" :
@@ -169,72 +172,59 @@ function ratingExplanation(name, cat, score){
   return `${name} is ${tiers} in the ${cat} category, based on ${a} and ${b}. This summary is respectful and informational; please review the charity’s own reports.`;
 }
 
-/* Seed real organizations (verified:true, correct official sites) */
+/* Seed real organizations (verified:true, correct official sites & logos) */
 const SEEDS = [
-  // Animals & Wildlife
   ["ASPCA","aspca.org","Animals & Wildlife","Prevents cruelty to animals.","USA","Large"],
   ["Humane Society of the United States","humanesociety.org","Animals & Wildlife","Ending suffering for all animals.","USA","Large"],
   ["Best Friends Animal Society","bestfriends.org","Animals & Wildlife","No-kill movement for pets.","USA","Medium"],
   ["World Wildlife Fund","worldwildlife.org","Environmental & Conservation","Protecting wildlife and wild places.","Global","Large"],
   ["The Nature Conservancy","nature.org","Environmental & Conservation","Conserving lands and waters.","Global","Large"],
   ["Environmental Defense Fund","edf.org","Environmental & Conservation","Tackling climate and pollution.","Global","Large"],
-  // Food & Hunger
   ["Feeding America","feedingamerica.org","Food Security & Hunger Relief","Network of food banks.","USA","Large"],
   ["World Central Kitchen","wck.org","Food Security & Hunger Relief","Meals in crises.","Global","Large"],
   ["World Food Program USA","wfpusa.org","Food Security & Hunger Relief","Supports UN WFP.","Global","Large"],
-  // Disaster relief / health
   ["American Red Cross","redcross.org","Disaster Relief & Emergency Services","Disaster relief & blood services.","USA/Global","Large"],
   ["Direct Relief","directrelief.org","Disaster Relief & Emergency Services","Medical aid after disasters.","Global","Large"],
   ["Doctors Without Borders (MSF)","doctorswithoutborders.org","Health & Medical Services","Medical humanitarian assistance.","Global","Large"],
-  // Health & disease
   ["St. Jude Children’s Research Hospital","stjude.org","Disease Research & Treatment","Pediatric treatment & research.","USA","Large"],
   ["American Cancer Society","cancer.org","Disease Research & Treatment","Cancer research & support.","USA","Large"],
   ["American Heart Association","heart.org","Health & Medical Services","Cardiovascular health programs.","USA","Large"],
   ["Alzheimer’s Association","alz.org","Health & Medical Services","Support & research on Alzheimer's.","USA","Large"],
-  // Education
   ["Khan Academy","khanacademy.org","Education & Schools","Free world-class education.","Global","Large"],
   ["DonorsChoose","donorschoose.org","Education & Schools","Classroom project funding.","USA","Medium"],
   ["Teach For America","teachforamerica.org","Education & Schools","Expanding educational opportunity.","USA","Large"],
   ["Code.org","code.org","Science & Technology Initiatives","Expanding access to CS education.","Global","Large"],
-  // Housing / Poverty
   ["Habitat for Humanity","habitat.org","Homelessness Services & Housing","Partnering to build homes.","Global","Large"],
   ["United Way","unitedway.org","Human Services & Poverty Alleviation","Community impact & services.","Global","Large"],
   ["Salvation Army USA","salvationarmyusa.org","Human Services & Poverty Alleviation","Social services & relief.","USA","Large"],
-  // International aid
   ["International Rescue Committee","rescue.org","International Aid & Development","Assists people affected by conflict.","Global","Large"],
   ["Oxfam America","oxfamamerica.org","International Aid & Development","Ending the injustice of poverty.","Global","Large"],
   ["CARE","care.org","International Aid & Development","Humanitarian aid & development.","Global","Large"],
   ["Mercy Corps","mercycorps.org","International Aid & Development","Helps people build better lives.","Global","Large"],
   ["Charity: water","charitywater.org","International Aid & Development","Clean water to people in need.","Global","Medium"],
   ["Water.org","water.org","International Aid & Development","Water & sanitation solutions.","Global","Medium"],
-  // Civil rights / legal / LGBTQ+
   ["ACLU","aclu.org","Civil Rights & Social Justice","Defends civil liberties.","USA","Large"],
   ["NAACP","naacp.org","Civil Rights & Social Justice","Advances civil rights.","USA","Large"],
   ["Human Rights Watch","hrw.org","Public Policy, Law & Advocacy","Investigates and reports on abuses.","Global","Large"],
   ["Amnesty International USA","amnestyusa.org","Public Policy, Law & Advocacy","Human rights advocacy.","Global","Large"],
   ["The Trevor Project","thetrevorproject.org","LGBTQ+ Support & Advocacy","Crisis support for LGBTQ+ youth.","USA","Medium"],
   ["GLAAD","glaad.org","LGBTQ+ Support & Advocacy","LGBTQ+ acceptance & media.","USA","Medium"],
-  // Mental health
   ["NAMI","nami.org","Mental Health & Counseling","Support & advocacy for mental health.","USA","Large"],
   ["Mental Health America","mhanational.org","Mental Health & Counseling","Community-based mental health.","USA","Medium"],
-  // Environment extras
   ["Sierra Club Foundation","sierraclub.org","Environmental & Conservation","Protecting the planet.","USA","Large"],
   ["Greenpeace","greenpeace.org","Environmental & Conservation","Environmental campaigns worldwide.","Global","Large"],
   ["Ocean Conservancy","oceanconservancy.org","Environmental & Conservation","Protecting the ocean.","Global","Medium"],
-  // Veterans / military
   ["Wounded Warrior Project","woundedwarriorproject.org","Military & Veterans Support","Veterans programs & support.","USA","Large"],
   ["Fisher House Foundation","fisherhouse.org","Military & Veterans Support","Comfort homes for military families.","USA","Medium"],
   ["Team Rubicon","teamrubiconusa.org","Disaster Relief & Emergency Services","Veterans serving in disasters.","Global","Medium"],
-  // Children & youth
   ["Boys & Girls Clubs of America","bgca.org","Children & Youth","After-school & youth development.","USA","Large"],
   ["YMCA USA","ymca.org","Sports & Recreation Nonprofits","Youth development & healthy living.","USA","Large"]
 ];
 
 /* Build full dataset = 23 categories × 100 items */
 function buildDataset(){
-  const dataset = {};
-  // base verified seeds
-  for(const cat of CATEGORIES) dataset[cat] = [];
+  const dataset = {}; for(const cat of CATEGORIES) dataset[cat] = [];
+  // verified seeds
   for(const [name,domain,cat,blurb,loc,size] of SEEDS){
     const score = +(6 + rand()*3.8).toFixed(1);
     dataset[cat].push({
@@ -243,7 +233,7 @@ function buildDataset(){
       rating: score, rating_explanation: ratingExplanation(name, cat, score)
     });
   }
-  // fill up to 100 per cat with clearly marked directory placeholders (unverified)
+  // unverified placeholders (now with neutral image + web search link, NOT Charity Navigator)
   for(const cat of CATEGORIES){
     while(dataset[cat].length < 100){
       const nm = `${cat.split("&")[0].trim()} ${WORDS[Math.floor(rand()*WORDS.length)]} ${Math.floor(1+rand()*9999)}`;
@@ -251,13 +241,14 @@ function buildDataset(){
       const loc = REGIONS[Math.floor(rand()*REGIONS.length)];
       const size = SIZES[Math.floor(rand()*SIZES.length)];
       const score = +(6 + rand()*3.8).toFixed(1);
-      // For unverified entries, we link to a safe search page to help users find the official site.
-      const searchQ = encodeURIComponent(nm + " " + cat + " official site");
+      const searchQ = encodeURIComponent(nm + " " + cat + " nonprofit official site");
       dataset[cat].push({
-        id, name: nm, website:`https://www.charitynavigator.org/search?q=${searchQ}`,
-        category:cat, blurb:`Directory entry for ${cat.toLowerCase()} (unverified). Use the link to search and confirm before donating.`,
-        location: loc, size, verified:false, image: "", rating: score,
-        rating_explanation: ratingExplanation(nm, cat, score)
+        id, name: nm, website:`https://www.google.com/search?q=${searchQ}`,
+        category:cat,
+        blurb:`Directory entry for ${cat.toLowerCase()} (unverified). Use the search link to find the official site and verify before donating.`,
+        location: loc, size, verified:false,
+        image: NEUTRAL_IMG, // every entry has a visible picture now
+        rating: score, rating_explanation: ratingExplanation(nm, cat, score)
       });
     }
   }
@@ -285,7 +276,7 @@ CATEGORIES.forEach(cat=>{
   pillwrap.appendChild(b);
 });
 
-// popular this week: take random 12 verified if possible, else mix in some placeholders
+// popular this week: 12 items
 const allFlat = Object.values(DATA).flat();
 const verified = allFlat.filter(x=>x.verified);
 const pool = (verified.length>=12? verified : allFlat).sort(()=>rand()-0.5).slice(0,12);
@@ -293,7 +284,7 @@ pool.forEach(c=>{
   const a=document.createElement('a'); a.className='card'; a.href=c.website; a.target='_blank'; a.rel='noopener';
   a.innerHTML=`<img alt="${c.name} logo"><div class="name">${c.name}</div><div style="font-size:.85rem;color:#6b7280;margin-top:4px">${(c.rating??'—')}/10</div>`;
   feat.appendChild(a);
-  const img=a.querySelector('img'); img.src=c.image || ''; fallback(img);
+  const img=a.querySelector('img'); img.src=c.image || NEUTRAL_IMG; fallback(img);
 });
 
 function openCategory(cat, prefill=''){
@@ -339,7 +330,7 @@ function openCategory(cat, prefill=''){
           </div>
         </div>`;
       results.appendChild(d);
-      const img=d.querySelector('img.thumb'); img.src=c.image||''; fallback(img);
+      const img=d.querySelector('img.thumb'); img.src=c.image||NEUTRAL_IMG; fallback(img);
     });
     if(countEl) countEl.textContent=String(view.length);
     // pagination
@@ -369,13 +360,14 @@ const modal=qs('#ratingModal'), mName=qs('#mName'), mLogo=qs('#mLogo'), mScore=q
 qs('#closeModal').addEventListener('click',()=>{ modal.style.display='none'; modal.setAttribute('aria-hidden','true'); });
 function openRating(c){
   mName.textContent=c.name;
-  mLogo.src=c.image||''; fallback(mLogo);
+  mLogo.src=c.image||NEUTRAL_IMG; fallback(mLogo);
   mScore.textContent=(c.rating??'—');
   mExp.textContent=c.rating_explanation||'';
   mSite.href=c.website;
   modal.style.display='flex'; modal.setAttribute('aria-hidden','false');
 }
+
+document.getElementById('year').textContent = new Date().getFullYear();
 </script>
 </body>
 </html>
-

@@ -378,32 +378,38 @@ document.getElementById('year').textContent = new Date().getFullYear();
 
   gtag('config', 'G-1RJD98F2F1');
 
- <script>
-/* Track charity clicks with a readable name */
-document.addEventListener('DOMContentLoaded', () => {
-  document.querySelectorAll('a[href]').forEach(a => {
-    a.addEventListener('click', () => {
-      // only outbound links
-      if (a.hostname && a.hostname !== window.location.hostname) {
-        // Prefer an explicit name if you provide one in HTML
-        const charityName =
-          a.dataset.charity ||                 // <a data-charity="Feeding America">
-          a.getAttribute('aria-label') ||      // accessibility label
-          a.title ||                           // title attr
-          (a.textContent || '').trim() ||      // visible text
-          new URL(a.href).hostname.replace(/^www\./,''); // fallback
+ 
+<script>
+  // Send a readable "charity_click" when someone clicks an external charity link
+  document.addEventListener('DOMContentLoaded', () => {
+    document.querySelectorAll('a[href]').forEach(a => {
+      a.addEventListener('click', () => {
+        const link = a.href;
+        const host = a.hostname;
+        if (host && host !== window.location.hostname) {
+          // Use visible text as a readable label fallback
+          const title =
+            a.dataset.charity ||
+            a.getAttribute('aria-label') ||
+            a.title ||
+            (a.textContent || '').trim() ||
+            host.replace(/^www\./,'');
 
-        gtag('event', 'charity_click', {
-          charity_name: charityName,   // <-- easy to read in GA4
-          link_url: a.href,            // exact URL clicked
-          link_domain: a.hostname      // domain
-        });
-      }
+          // Send to GA4
+          gtag('event', 'charity_click', {
+            link_url: link,
+            link_domain: host,
+            charity_name: title
+            // ,debug_mode: true // <- uncomment temporarily to see it in DebugView
+          });
+        }
+      });
     });
   });
-});
-
 </script>
+
+
+
 
 
 

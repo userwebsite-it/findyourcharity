@@ -377,6 +377,20 @@ document.getElementById('year').textContent = new Date().getFullYear();
   gtag('js', new Date());
 
   gtag('config', 'G-1RJD98F2F1');
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    document.querySelectorAll('a').forEach(function(link) {
+      link.addEventListener('click', function() {
+        if (link.hostname !== window.location.hostname) {
+          gtag('event', 'click', {
+            'event_category': 'Outbound Link',
+            'event_label': link.href
+          });
+        }
+      });
+    });
+  });
+
 </script>
 </body>
 </html>

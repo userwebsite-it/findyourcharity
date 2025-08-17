@@ -1,0 +1,28 @@
+<script>
+  // Send a readable "charity_click" when someone clicks an external charity link
+  document.addEventListener('DOMContentLoaded', () => {
+    document.querySelectorAll('a[href]').forEach(a => {
+      a.addEventListener('click', () => {
+        const link = a.href;
+        const host = a.hostname;
+        if (host && host !== window.location.hostname) {
+          // Use visible text as a readable label fallback
+          const title =
+            a.dataset.charity ||
+            a.getAttribute('aria-label') ||
+            a.title ||
+            (a.textContent || '').trim() ||
+            host.replace(/^www\./,'');
+
+          // Send to GA4
+          gtag('event', 'charity_click', {
+            link_url: link,
+            link_domain: host,
+            charity_name: title
+            // ,debug_mode: true // <- uncomment temporarily to see it in DebugView
+          });
+        }
+      });
+    });
+  });
+</script>
